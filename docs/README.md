@@ -3,25 +3,25 @@ Esse repositório é para ser utilizado pelos grupos como um template inicial.
 As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
 Demais diretrizes constam no Moodle.
 
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)(Turma)_(Grupo)_(NomeDoProjeto)_(Entrega_01)*. !!** 
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
-
-**!! *Exemplo de título correto: 2026.2(T01)_G1_ProjetoComercioEletronico_Entrega_01*. !!** 
- 
- (Apague esses comentários)
-
 # Nome do Projeto
 
 **Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: XX<br>
+**Número do Grupo**: 05<br>
 **Entrega**: 01<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 24/10125891  |  Ana Beatriz Souza Araujo |
+| 241010923  |  Artur Fernandes Galdino |
+| 241012202  |  Davi Ursulino de Oliveira  |
+| 241011081  |  Gabriel Mota Oliveira |
+| 241032500  |  Giovani de Oliveira Teodoro Coelho  |
+| 241032519  |  Gustavo Gomes Fornaciari |
+| 241012347  |  Nicole Jovita Fernandes |
+| 241040860  |  Yasmim de Souza Santos |
+| 241025274  |  João Eduardo de Souza Leles  |
+| 222021826  |  Victor Leandro Rocha de Assis  |
 
 ## Sobre 
 Contextualize, usando referências, links, e outros materiais como fontes.
