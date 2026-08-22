@@ -11,3 +11,6 @@
       - [1.1.3. SubEquipe_03](/docs/Base/Relatórios/1.1.3.SubEquipe_03.md)
   - [1.2. Participações - Base](/docs/Base/1.2.ParticipacoesBase.md)
   - [1.3. Iniciativas Extras - Base](/docs/Base/1.3.IniciativasExtras.md)
+
+- **Padrões**
+  - [Padrão de Commits](/docs/Padroes/PadraoDeCommits.md)
