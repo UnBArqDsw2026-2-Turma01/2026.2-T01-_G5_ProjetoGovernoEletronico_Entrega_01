@@ -7,6 +7,7 @@ Este documento define as regras de padronização de commits adotadas pelo grupo
 Utilizamos o padrão [Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0/), amplamente usado no mercado. A estrutura da mensagem é:
 
 ```
+
 <tipo>(<escopo opcional>): <descrição curta>
 
 <corpo opcional, explicando o quê e o porquê>

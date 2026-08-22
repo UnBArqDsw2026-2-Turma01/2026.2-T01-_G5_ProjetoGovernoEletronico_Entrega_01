@@ -1,23 +1,73 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>Document</title>
+  <title>G5 - Projeto Governo Eletrônico | Arquitetura e Desenho de Software</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
+  <meta name="description" content="GitPages do Grupo 05 - Projeto Governo Eletrônico - FGA0208 Arquitetura e Desenho de Software - UnB/FGA">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css">
+
+  <style>
+    :root {
+      --theme-color: #0d4722;
+      --accent-color: #e5b300;
+      --sidebar-background: #f7faf8;
+    }
+
+    .markdown-section table {
+      display: table;
+      width: 100%;
+      table-layout: auto;
+    }
+
+    .markdown-section blockquote {
+      border-left: 4px solid var(--theme-color);
+      background: #f0f7f2;
+      padding: 10px 15px;
+      color: #1b3824;
+    }
+
+    .sidebar {
+      background-color: var(--sidebar-background);
+    }
+
+    .sidebar ul li a:hover {
+      color: var(--theme-color);
+      font-weight: bold;
+    }
+
+    .sidebar ul li.active > a {
+      color: var(--theme-color) !important;
+      font-weight: bold;
+      border-right: 3px solid var(--theme-color);
+    }
+  </style>
 </head>
 <body>
-  <div id="app"></div>
+  <div id="app">Carregando...</div>
   <script>
     window.$docsify = {
+      name: 'G5 · Governo Eletrônico',
+      repo: 'https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01',
       loadSidebar: true,
-      name: 'Repositorio Template',
-      repo: 'https://github.com/UnBArqDsw2025-1-Turma01/RepositorioTemplateEntrega1'
+      subMaxLevel: 0,
+      sidebarDisplayLevel: 1,
+      auto2top: true,
+      relativePath: false,
+      search: {
+        placeholder: 'Buscar na documentação...',
+        noData: 'Nenhum resultado encontrado.',
+        depth: 3
+      }
     }
   </script>
-  <!-- Docsify v4 -->
+
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code@2"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 </body>
 </html>
