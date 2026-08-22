@@ -1,4 +1,4 @@
-** Projetos - Período   2026.2
+# Projetos - Período   2026.2
 
 Segue a lista de projetos desse período letivo:
 
@@ -34,4 +34,4 @@ Segue a lista de projetos desse período letivo:
     • Projeto G8 - Aprendizado Eletrônico, com ênfase em Design Centrado no Usuário e Aprendizagens Significativa e Experiencial, baseado em qualquer Aprendizado Eletrônico para inspiração, podendo ser em versão site, desktop ou aplicativo móvel.
     • Não usar o nome real da fonte de inspiração. A ideia é usar o nome G8_ProjetoAprendizadoEletronico mesmo, e apenas se basear em algo conhecido para fins de identificar público-alvo, principais funcionalidades, dentre outros detalhes.
     
-OBS: Se a turma se mantiver com 60 alunos, devem ser mantidos 6 grupos de 10 membros. Caso outros alunos sejam matriculados, ultrapassando 60 alunos, têm-se o uso de mais dois grupos, totalizando 8 grupos com até 10 alunos cada = 80 alunos. Caso existam novos matriculados na disciplina, acima de 80 alunos, novos projetos serão propostos pela professora. Portanto, nesses casos, conversar com a professora na época.
+**OBS**: Se a turma se mantiver com 60 alunos, devem ser mantidos 6 grupos de 10 membros. Caso outros alunos sejam matriculados, ultrapassando 60 alunos, têm-se o uso de mais dois grupos, totalizando 8 grupos com até 10 alunos cada = 80 alunos. Caso existam novos matriculados na disciplina, acima de 80 alunos, novos projetos serão propostos pela professora. Portanto, nesses casos, conversar com a professora na época.
