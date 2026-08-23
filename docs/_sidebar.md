@@ -3,6 +3,9 @@
 - **Projeto**
   - [Padrão de Commits](/Projeto/PadraoDeCommits.md)
   - [Projetos da Disciplina](/Projeto/ProjetosDisciplina.md)
+  - Atas
+      - [Modelo de ata](/Atas/Ata-Modelo.md)
+      - [Ata - 20 de agosto](/Atas/Ata-20-08.md)
 
 - [**1. Desenho de Software**](/DesenhoDeSoftware/1.Base.md)
   - 1.1 Relatórios
