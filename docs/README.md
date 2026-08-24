@@ -34,3 +34,9 @@ Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados
 
 ## Informações Complementares 
 Quaisquer outras informações adicionais podem ser descritas nessa seção.
+
+---
+
+| Nome do Membro | Contribuição | Data |
+| -- | -- | -- |
+| [Gustavo Fornaciari](https://github.com/GUGOFO) | Criação do Repositorio | 17/08/2026 |

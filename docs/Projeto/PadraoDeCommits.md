@@ -56,3 +56,9 @@ O módulo de Desenho de Software exige rastreabilidade clara entre membros, cont
 - Identificar rapidamente quem fez o quê e por quê;
 - Servir como comprobatório de participação individual;
 - Facilitar a montagem do relatório e da apresentação para a professora.
+
+---
+
+| Nome do Membro | Contribuição | Data |
+| -- | -- | -- |
+| [Davi Oliveira](https://github.com/DaviUrsulino) | Elaboração do Documento acima | 22/08/2026 |

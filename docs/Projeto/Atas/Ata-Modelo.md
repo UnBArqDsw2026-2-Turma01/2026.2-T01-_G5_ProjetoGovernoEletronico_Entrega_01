@@ -28,3 +28,9 @@ A reunião foi realizada com o objetivo de [descrever brevemente o objetivo prin
 | [Responsável] | [Descrição da tarefa] | [Data] |
 | [Responsável] | [Descrição da tarefa] | [Data] |
 | [Responsável] | [Descrição da tarefa] | [Data] |
+
+---
+
+| Nome do Membro | Contribuição | Data |
+| -- | -- | -- |
+| [Yasmim Santos](https://github.com/eii-yahs) | Elaboração do Documento modelo acima | 23/08/2026 |
