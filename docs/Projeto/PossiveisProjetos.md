@@ -12,7 +12,7 @@ Cada proposta segue o mesmo modelo: identificação do sistema, justificativa da
 | # | Responsável | Sistema Proposto | NFRs em destaque |
 | -- | -- | -- | -- |
 | 1 | Victor Leandro | Carteira Digital de Trânsito | Segurança/Privacidade, Confiabilidade, Usabilidade |
-| 2 | Artur Galdino | *a preencher* | *a preencher* |
+| 2 | Artur Galdino | Fala.BR | Segurança/Privacidade, Desempenho, Usabilidade |
 | 3 | Giovani Coelho | *a preencher* | *a preencher* |
 
 ---
@@ -39,23 +39,22 @@ Cada proposta segue o mesmo modelo: identificação do sistema, justificativa da
 
 ## Proposta 2 — Artur Galdino
 
-<!-- Artur, preencha sua proposta abaixo seguindo o Modelo de Proposta. -->
-
 ### Sistema Escolhido
 
-*a preencher*
+**Fala.BR**
 
 ### Justificativa
 
-*a preencher*
+(foco em Privacidade) Trata de denúncias, reclamações e pedidos de informação. Isso envolve regras claras de anonimato vs. identificação, pseudonimização de dados do denunciante e proteção de dados sensíveis em anexos.<br>
+(foco em Usabilidade) Usuários recorrem à ouvidoria frequentemente sob estresse ou buscando direitos. A clareza no passo a passo, a visibilidade do status do protocolo e a linguagem simples são pontos determinantes e fáceis de mapear e refinar na interface.
 
 ### Divisão dos Fluxos por Subequipe
 
 | Subequipe | Fluxo | NFR em destaque |
 | -- | -- | -- |
-| SubEquipe_01 | *a preencher* | *a preencher* |
-| SubEquipe_02 | *a preencher* | *a preencher* |
-| SubEquipe_03 | *a preencher* | *a preencher* |
+| SubEquipe_01 | Registro de Manifestação/Denúncia com Escolha de Privacidade | Segurança/Privacidade |
+| SubEquipe_02 | Acompanhamento de Protocolo e Interação com o Órgão | Desempenho |
+| SubEquipe_03 | Gestão de Perfil, Histórico e Anonimização de Conta | Usabilidade |
 
 ---
 
@@ -87,3 +86,4 @@ Cada proposta segue o mesmo modelo: identificação do sistema, justificativa da
 | -- | -- | -- |
 | [Victor Leandro](https://github.com/Afrontoso) | Pesquisa da Carteira Digital de Trânsito e divisão de fluxos por subequipe | 22/08/2026 |
 | [Victor Leandro](https://github.com/Afrontoso) | Formatação do documento em Markdown e criação do modelo de proposta | 25/08/2026 |
+| [Artur Galdino](https://github.com/arturgaldino) | Pesquisa da Fala.BR e divisão de fluxos por subequipe | 26/08/2026 |
