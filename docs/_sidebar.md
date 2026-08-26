@@ -4,6 +4,7 @@
   - [Padrão de Commits](/Projeto/PadraoDeCommits.md)
   - [Projetos da Disciplina](/Projeto/ProjetosDisciplina.md)
   - [Possíveis Projetos](/Projeto/PossiveisProjetos.md)
+  - [Guia BPMN](/Projeto/GuiaBPMN.md)
   - Atas
     - [Atas Grupo](/Projeto/Atas/AtasGerais/README.md)
       - [Ata - 20 de agosto](/Projeto/Atas/AtasGerais/Ata-20-08.md)
