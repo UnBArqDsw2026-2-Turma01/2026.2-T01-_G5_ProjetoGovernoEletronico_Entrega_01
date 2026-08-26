@@ -13,7 +13,7 @@ Cada proposta segue o mesmo modelo: identificação do sistema, justificativa da
 | -- | -- | -- | -- |
 | 1 | Victor Leandro | Carteira Digital de Trânsito | Segurança/Privacidade, Confiabilidade, Usabilidade |
 | 2 | Artur Galdino | *a preencher* | *a preencher* |
-| 3 | Giovani Coelho | *a preencher* | *a preencher* |
+| 3 | Giovani Coelho | Meu SUS Digital | Segurança/Privacidade, Usabilidade, Confiabilidade |
 
 ---
 
@@ -65,19 +65,19 @@ Cada proposta segue o mesmo modelo: identificação do sistema, justificativa da
 
 ### Sistema Escolhido
 
-*a preencher*
+**Meu SUS Digital**
 
 ### Justificativa
 
-*a preencher*
+É um cenário perfeito pois lida com dados médicos sensíveis (foco em Privacidade) e precisa ser acessível para toda a população brasileira (foco em Usabilidade).
 
 ### Divisão dos Fluxos por Subequipe
 
 | Subequipe | Fluxo | NFR em destaque |
 | -- | -- | -- |
-| SubEquipe_01 | *a preencher* | *a preencher* |
-| SubEquipe_02 | *a preencher* | *a preencher* |
-| SubEquipe_03 | *a preencher* | *a preencher* |
+| SubEquipe_01 | Autenticação via Gov.br e Termos de Uso | Segurança/Privacidade |
+| SubEquipe_02 | Navegação e Busca por serviços de saúde | Usabilidade |
+| SubEquipe_03 | Geração e Exportação de certificados, como vacina | Confiabilidade |
 
 ---
 
@@ -87,3 +87,4 @@ Cada proposta segue o mesmo modelo: identificação do sistema, justificativa da
 | -- | -- | -- |
 | [Victor Leandro](https://github.com/Afrontoso) | Pesquisa da Carteira Digital de Trânsito e divisão de fluxos por subequipe | 22/08/2026 |
 | [Victor Leandro](https://github.com/Afrontoso) | Formatação do documento em Markdown e criação do modelo de proposta | 25/08/2026 |
+| [Giovani Coelho](https://github.com/Gotc2607) | Adicionando a proposta do Meu SUS Digital, com justificativa e divisão dos fluxos por subequipe | 26/08/2026 |
