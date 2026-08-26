@@ -31,6 +31,6 @@ A reunião foi realizada com o objetivo de [descrever brevemente o objetivo prin
 
 ---
 
-| Nome do Membro | Contribuição | Data |
-| -- | -- | -- |
-| [Yasmim Santos](https://github.com/eii-yahs) | Elaboração do Documento modelo acima | 23/08/2026 |
+| Nome do Membro | Contribuição | Data | Commit |
+| -- | -- | -- | -- |
+| [Yasmim Santos](https://github.com/eii-yahs) | Elaboração do Documento modelo acima | 23/08/2026 | [53b6c8d](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/53b6c8db97d87f1e2581c1d93a2d97986de2537c) |
