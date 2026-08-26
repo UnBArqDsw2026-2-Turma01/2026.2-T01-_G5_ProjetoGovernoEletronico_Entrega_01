@@ -1,56 +1,36 @@
-markdown_content = """# Ata de Reunião - 23/08/2026
+# Ata de Reunião - [Data]
 
 ## Participantes
-* Artur Fernandes
-* Giovani Coelho
-* João Leles
-* Nicole Jovita Fernandes
+* [Nome completo do participante]
+* [Nome completo do participante]
+* [Nome completo do participante]
 
 ## Resumo
-A reunião foi realizada com o objetivo de alinhar as estratégias de colaboração, definir o controle de versionamento dos artefatos e distribuir as responsabilidades para os entregáveis do projeto (focado no SUS Digital e autenticação governamental). Durante o encontro, a equipe definiu que cada membro ficará responsável pela versão base de um artefato, com a obrigatoriedade de revisão e coautoria de todos, além de estabelecer o cronograma de entrega no GitHub Pages.
+A reunião foi realizada com o objetivo de [descrever brevemente o objetivo principal da reunião]. Durante a reunião, foram discutidos [principais assuntos], além de serem definidos [subequipes, tarefas, decisões ou outros encaminhamentos].
 
 ## Tópicos discutidos
 
-### 1. Estratégia de Colaboração e Comunicação
-Discutiu-se a necessidade de comprovar o esforço e a participação coletiva de todos os membros em todas as atividades. Foi definido que um membro (ou dupla) criará a estrutura base de cada entregável e os demais integrantes deverão obrigatoriamente revisar, comentar e sugerir melhorias. O grupo de WhatsApp será utilizado para alinhamento contínuo, dúvidas rápidas e compartilhamento de links de edição.
+### 1. [Título do primeiro tópico]
+[Descrever detalhadamente o que foi discutido, as dúvidas levantadas, as decisões tomadas e os principais pontos definidos.]
 
-### 2. Ferramentas de Trabalho e Complexidade dos Entregáveis
-O Rich Picture foi apontado como o artefato de maior complexidade. A equipe testou o Miro para colaboração e edições simultâneas, definindo que ele será mantido apenas para rascunhos e ideação inicial. Para as versões oficiais e finais, serão utilizadas a ferramenta Cloudairy, proposta pela colega de equipe Ana Beatriz Souza Araujo, com consolidação obrigatória no repositório do GitHub Pages.
+### 2. [Título do segundo tópico]
+[Descrever detalhadamente o que foi discutido e quais foram as decisões tomadas.]
 
-### 3. Controle de Versão e Padronização no GitHub
-Para evidenciar a evolução e a participação de todos no projeto, ficou acordado que os documentos seguirão um versionamento formal (ex.: v1.0, v1.1, v1.2) a cada rodada de alterações. Além disso, todos os commits no GitHub deverão incluir os demais integrantes como coautores (*co-authored-by*).
-
-### 4. Divisão de Responsabilidades e Conteúdo Técnico
-Foram definidos os responsáveis pela elaboração base de cada artefato:
-* **Rich Picture:** Artur Fernandes e Nicole Jovita Fernandes.
-* **BPMN:** João Leles.
-* **NFR e SIG:** Giovani Coelho (com atenção aos aspectos de cibersegurança e autenticação do SUS Digital).
-
-### 5. Cronograma e Prazos de Entrega
-Ficou estabelecido que os rascunhos e versões base devem estar prontos até quarta-feira. A quinta-feira será dedicada exclusivamente à revisão cruzada, comentários e melhorias pelo grupo todo. O prazo final para consolidação e publicação no GitHub Pages é a sexta-feira.
+### N. [Título do n-ésimo tópico]
+[Descrever detalhadamente o que foi discutido e quais foram as decisões tomadas.]
 
 ## Plano de ação
 
-| Responsável | Tarefa | Prazo |
-| --- | --- | --- |
-| Artur Fernandes, Nicole Jovita Fernandes | Elaborar e finalizar a base do Rich Picture | Quarta-feira |
-| João Leles | Elaborar e finalizar a base do diagrama BPMN | Quarta-feira |
-| Giovani Coelho | Elaborar e finalizar a base dos documentos de NFR e SIG | Quarta-feira |
-| Grupo (Todos) | Revisar os entregáveis dos colegas, adicionando comentários e incrementos | Quinta-feira |
-| Grupo (Todos) | Alinhar dúvidas e compartilhar links de edição via WhatsApp | Contínuo |
-| Grupo (Todos) | Padronizar as atas e incluir coautores em todos os commits do GitHub | Contínuo |
-| Grupo (Todos) | Consolidar e publicar todos os documentos finais no GitHub Pages | Sexta-feira |
+| Responsável   | Tarefa                | Prazo  |
+| ------------- | --------------------- | ------ |
+| [Responsável] | [Descrição da tarefa] | [Data] |
+| [Responsável] | [Descrição da tarefa] | [Data] |
+| [Responsável] | [Descrição da tarefa] | [Data] |
+| [Responsável] | [Descrição da tarefa] | [Data] |
+| [Responsável] | [Descrição da tarefa] | [Data] |
 
 ---
 
 | Nome do Membro | Contribuição | Data |
 | -- | -- | -- |
 | [Yasmim Santos](https://github.com/eii-yahs) | Elaboração do Documento modelo acima | 23/08/2026 |
-| [Artur Fernandes](https://github.com/artur-galdino) | Preenchimento e registro da ata da reunião | 23/08/2026 |
-"""
-
-file_path = "ata_reuniao_23_08_2026.md"
-with open(file_path, "w", encoding="utf-8") as f:
-    f.write(markdown_content)
-
-print(f"File created successfully: {file_path}")
