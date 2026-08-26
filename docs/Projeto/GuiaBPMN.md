@@ -65,4 +65,4 @@ Editor 100% web que executa diretamente no navegador. É simples, rápido e poss
 
 | Nome do Membro | Contribuição | Data |
 | -- | -- | -- |
-| Nicole Jovita | Criação do Guia de Modelador BPMN e Notações | 26/08/2026 |
+| [Nicole Jovita](https://github.com/nicolejovita) | Criação do Guia de Modelador BPMN e Notações | 26/08/2026 |
