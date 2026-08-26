@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 260" font-family="Helvetica, Arial, sans-serif">
+  <style>
+    .pool-title { font-size: 13px; font-weight: bold; fill: #333; }
+    .lane-title { font-size: 11px; font-weight: bold; fill: #333; }
+    .task { fill: #dae8fc; stroke: #6c8ebf; stroke-width: 1.5; }
+    .task-text { font-size: 11px; fill: #1a1a1a; text-anchor: middle; }
+    .gw { fill: #ffffc0; stroke: #d6b656; stroke-width: 1.5; }
+    .gw-text { font-size: 10px; fill: #1a1a1a; text-anchor: middle; }
+    .edge { stroke: #333; stroke-width: 1.5; fill: none; marker-end: url(#arrow); }
+    .edge-label { font-size: 10px; fill: #333; }
+    .start { fill: #d5e8d4; stroke: #82b366; stroke-width: 2; }
+    .end { fill: #f8cecc; stroke: #b85450; stroke-width: 2; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 Z" fill="#333"/>
+    </marker>
+  </defs>
+
+  <!-- Pool -->
+  <rect x="5" y="5" width="1170" height="245" fill="none" stroke="#333" stroke-width="2"/>
+  <rect x="5" y="5" width="24" height="245" fill="#f0f0f0" stroke="#333" stroke-width="2"/>
+  <text x="17" y="127" class="pool-title" transform="rotate(-90 17 127)" text-anchor="middle">Meu SUS Digital</text>
+
+  <!-- Lane -->
+  <rect x="29" y="5" width="1146" height="245" fill="none" stroke="#333"/>
+  <rect x="29" y="5" width="24" height="245" fill="#fafafa" stroke="#333"/>
+  <text x="41" y="127" class="lane-title" transform="rotate(-90 41 127)" text-anchor="middle">Usuario</text>
+
+  <!-- Start -->
+  <circle cx="90" cy="127" r="18" class="start"/>
+
+  <!-- Task 1 -->
+  <rect x="140" y="97" width="130" height="60" rx="10" class="task"/>
+  <text x="205" y="122" class="task-text">Fazer login</text>
+  <text x="205" y="136" class="task-text">com Gov.br</text>
+
+  <!-- Task 2 -->
+  <rect x="300" y="97" width="140" height="60" rx="10" class="task"/>
+  <text x="370" y="117" class="task-text">Selecionar</text>
+  <text x="370" y="130" class="task-text">'Rede de Saude'</text>
+  <text x="370" y="143" class="task-text">no menu</text>
+
+  <!-- Task 3 -->
+  <rect x="470" y="97" width="150" height="60" rx="10" class="task"/>
+  <text x="545" y="117" class="task-text">Selecionar categoria</text>
+  <text x="545" y="130" class="task-text">de estabelecimento</text>
+  <text x="545" y="143" class="task-text">(ex: Maternidade)</text>
+
+  <!-- Task 4 -->
+  <rect x="650" y="97" width="150" height="60" rx="10" class="task"/>
+  <text x="725" y="117" class="task-text">Visualizar mapa e</text>
+  <text x="725" y="130" class="task-text">lista de unidades</text>
+  <text x="725" y="143" class="task-text">proximas</text>
+
+  <!-- Gateway -->
+  <polygon points="840,127 875,92 910,127 875,162" class="gw"/>
+  <text x="875" y="180" class="gw-text">Como continuar?</text>
+
+  <!-- Task 5a -->
+  <rect x="960" y="45" width="150" height="55" rx="10" class="task"/>
+  <text x="1035" y="67" class="task-text">Visualizar endereco</text>
+  <text x="1035" y="80" class="task-text">e servicos da unidade</text>
+
+  <!-- Task 5b -->
+  <rect x="960" y="155" width="150" height="55" rx="10" class="task"/>
+  <text x="1035" y="177" class="task-text">Abrir rota ate a unidade</text>
+  <text x="1035" y="190" class="task-text">no Google Maps</text>
+
+  <!-- End events -->
+  <circle cx="1145" cy="72" r="15" class="end"/>
+  <circle cx="1145" cy="182" r="15" class="end"/>
+
+  <!-- Edges -->
+  <path d="M108,127 L140,127" class="edge"/>
+  <path d="M270,127 L300,127" class="edge"/>
+  <path d="M440,127 L470,127" class="edge"/>
+  <path d="M620,127 L650,127" class="edge"/>
+  <path d="M800,127 L840,127" class="edge"/>
+  <path d="M875,92 L875,72 L960,72" class="edge"/>
+  <text x="885" y="66" class="edge-label">Detalhes</text>
+  <path d="M875,162 L875,182 L960,182" class="edge"/>
+  <text x="880" y="200" class="edge-label">Ver no mapa</text>
+  <path d="M1110,72 L1130,72" class="edge"/>
+  <path d="M1110,182 L1130,182" class="edge"/>
+</svg>

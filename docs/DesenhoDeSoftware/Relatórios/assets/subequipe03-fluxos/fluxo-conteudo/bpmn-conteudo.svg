@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" font-family="Helvetica, Arial, sans-serif">
+  <style>
+    .pool-title { font-size: 13px; font-weight: bold; fill: #333; }
+    .lane-title { font-size: 11px; font-weight: bold; fill: #333; }
+    .task { fill: #dae8fc; stroke: #6c8ebf; stroke-width: 1.5; }
+    .task-text { font-size: 11px; fill: #1a1a1a; text-anchor: middle; }
+    .edge { stroke: #333; stroke-width: 1.5; fill: none; marker-end: url(#arrow2); }
+    .start { fill: #d5e8d4; stroke: #82b366; stroke-width: 2; }
+    .end { fill: #f8cecc; stroke: #b85450; stroke-width: 2; }
+  </style>
+  <defs>
+    <marker id="arrow2" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 Z" fill="#333"/>
+    </marker>
+  </defs>
+
+  <!-- Pool -->
+  <rect x="5" y="5" width="990" height="190" fill="none" stroke="#333" stroke-width="2"/>
+  <rect x="5" y="5" width="24" height="190" fill="#f0f0f0" stroke="#333" stroke-width="2"/>
+  <text x="17" y="100" class="pool-title" transform="rotate(-90 17 100)" text-anchor="middle">Meu SUS Digital</text>
+
+  <!-- Lane -->
+  <rect x="29" y="5" width="966" height="190" fill="none" stroke="#333"/>
+  <rect x="29" y="5" width="24" height="190" fill="#fafafa" stroke="#333"/>
+  <text x="41" y="100" class="lane-title" transform="rotate(-90 41 100)" text-anchor="middle">Usuario</text>
+
+  <!-- Start -->
+  <circle cx="90" cy="100" r="18" class="start"/>
+
+  <!-- Task 1 -->
+  <rect x="140" y="70" width="130" height="60" rx="10" class="task"/>
+  <text x="205" y="95" class="task-text">Fazer login</text>
+  <text x="205" y="109" class="task-text">com Gov.br</text>
+
+  <!-- Task 2 -->
+  <rect x="300" y="70" width="140" height="60" rx="10" class="task"/>
+  <text x="370" y="90" class="task-text">Selecionar</text>
+  <text x="370" y="103" class="task-text">'Conteudos' no</text>
+  <text x="370" y="116" class="task-text">menu lateral</text>
+
+  <!-- Task 3 -->
+  <rect x="470" y="70" width="150" height="60" rx="10" class="task"/>
+  <text x="545" y="90" class="task-text">Selecionar um artigo</text>
+  <text x="545" y="103" class="task-text">(ex: Coronavirus)</text>
+
+  <!-- Task 4 -->
+  <rect x="650" y="70" width="140" height="60" rx="10" class="task"/>
+  <text x="720" y="95" class="task-text">Ler o conteudo</text>
+  <text x="720" y="109" class="task-text">do artigo</text>
+
+  <!-- Task 5 -->
+  <rect x="820" y="70" width="0" height="0" class="task"/>
+
+  <!-- shifted layout: task5 after task4, then end -->
+  <rect x="810" y="70" width="140" height="60" rx="10" class="task"/>
+  <text x="880" y="90" class="task-text">Curtir ou</text>
+  <text x="880" y="103" class="task-text">compartilhar</text>
+  <text x="880" y="116" class="task-text">(opcional)</text>
+
+  <!-- End -->
+  <circle cx="965" cy="100" r="15" class="end"/>
+
+  <!-- Edges -->
+  <path d="M108,100 L140,100" class="edge"/>
+  <path d="M270,100 L300,100" class="edge"/>
+  <path d="M440,100 L470,100" class="edge"/>
+  <path d="M620,100 L650,100" class="edge"/>
+  <path d="M790,100 L810,100" class="edge"/>
+  <path d="M950,100 L950,100" class="edge"/>
+</svg>
