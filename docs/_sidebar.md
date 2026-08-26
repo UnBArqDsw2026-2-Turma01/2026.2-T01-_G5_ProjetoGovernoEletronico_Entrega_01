@@ -8,7 +8,7 @@
     - [Atas Grupo](/Projeto/Atas/AtasGerais/README.md)
       - [Ata - 20 de agosto](/Projeto/Atas/AtasGerais/Ata-20-08.md)
     - [Atas SubEquipe 1](/Projeto/Atas/AtasSub1/README.md)
-      - [Ata - XX de MM] <!-- Coloca a ata do grupo aq, entre aspas -->
+      - [Ata - 26 de agosto](/Projeto/Atas/AtasSub1/Ata-26-08.md)
     - [Atas SubEquipe 2](/Projeto/Atas/AtasSub2/README.md)
       - [Ata - XX de MM] <!-- Coloca a ata do grupo aq, entre aspas -->
     - [Atas SubEquipe 3](/Projeto/Atas/AtasSub3/README.md)
