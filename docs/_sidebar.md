@@ -9,9 +9,9 @@
     - [Atas Grupo](/Projeto/Atas/AtasGerais/README.md)
       - [Ata - 20 de agosto](/Projeto/Atas/AtasGerais/Ata-20-08.md)
     - [Atas SubEquipe 1](/Projeto/Atas/AtasSub1/README.md)
-      - [Ata - 26 de agosto](/Projeto/Atas/AtasSub1/Ata-26-08.md)
+      - [Ata - 25 de agosto](/Projeto/Atas/AtasSub1/Ata-25-08.md)
     - [Atas SubEquipe 2](/Projeto/Atas/AtasSub2/README.md)
-      - [Ata - XX de MM] <!-- Coloca a ata do grupo aq, entre aspas -->
+      - [Ata - 25 de agosto](/Projeto/Atas/AtasSub2/Ata-25-08.md)
     - [Atas SubEquipe 3](/Projeto/Atas/AtasSub3/README.md)
       - [Ata - XX de MM] <!-- Coloca a ata do grupo aq, entre aspas -->
     - [Modelo de ata](/Projeto/Atas/Ata-Modelo.md)
