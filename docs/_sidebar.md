@@ -19,9 +19,12 @@
 
 - [**1. Desenho de Software**](/DesenhoDeSoftware/1.Base.md)
   - 1.1 Relatórios
-      - [1.1.1. SubEquipe_01](/DesenhoDeSoftware/Relatórios/1.1.1.SubEquipe_01.md)
+      - [1.1.1. SubEquipe_01](/DesenhoDeSoftware/Relatórios/1.1.1.SubEquipe_01/1.1.1.SubEquipe_01.md)
+        - [Artefatos Generalistas](/DesenhoDeSoftware/Relatórios/1.1.1.SubEquipe_01/1.1.1.1.Artefatos%20Generalistas.md)
+        - [NFR](/DesenhoDeSoftware/Relatórios/1.1.1.SubEquipe_01/1.1.1.2.NFR.md)
+        - [BPMN](/DesenhoDeSoftware/Relatórios/1.1.1.SubEquipe_01/1.1.1.3.BPMN.md)
+        - [IA Generativa](/DesenhoDeSoftware/Relatórios/1.1.1.SubEquipe_01/1.1.1.4.IAGenerativa.md)
       - [1.1.2. SubEquipe_02](/DesenhoDeSoftware/Relatórios/1.1.2.SubEquipe_02.md)
       - [1.1.3. SubEquipe_03](/DesenhoDeSoftware/Relatórios/1.1.3.SubEquipe_03.md)
   - [1.2. Participações](/DesenhoDeSoftware/1.2.ParticipacoesBase.md)
   - [1.3. Iniciativas Extras](/DesenhoDeSoftware/1.3.IniciativasExtras.md)
-
