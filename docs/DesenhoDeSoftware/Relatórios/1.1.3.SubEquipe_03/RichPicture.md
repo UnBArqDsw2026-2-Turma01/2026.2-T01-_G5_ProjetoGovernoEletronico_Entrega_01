@@ -34,7 +34,7 @@ Elementos comuns a uma rich picture:
 
 Neste artefato, a técnica foi usada para representar o fluxo de busca por uma rede de saúde no Meu SUS Digital sob a ótica de um usuário idoso, evidenciando — por meio dos balões de pensamento, os pontos de fricção de usabilidade percebidos em cada etapa, algo que um fluxograma tradicional, focado apenas na sequência de telas, não capturaria. As referências teóricas utilizadas na construção estão detalhadas na seção "Embasamento teórico para criação", ao final deste documento.
 
-## Rich Picture
+## Rich Picture - Fluxo Rede de Saude
 
 ### Versão inicial
 
@@ -62,7 +62,7 @@ A estrutura inicial foi mantida, e foi acrescido um balão de preocupação sobr
 
 **Autoria: Gabriel Mota**
 
-![Rich Picture do fluxo do login até a localização de um local da rede de saúde - versão 2](../assets/subequipe03-fluxos/rich-picture/rich-picture-usabilidade-v2.png)
+![Rich Picture do fluxo do login até a localização de um local da rede de saúde - versão 2](../assets/subequipe03-fluxos/rich-picture/RichPicture_RedeDeSaude_V2.png)
 
 **Legenda da Rich Picture:** Fluxo de Busca de Rede Credenciada no Meu SUS Digital - Versão Final
 
@@ -100,8 +100,8 @@ A estrutura de bolhas e relacionamentos foi mantida, e os "elos perdidos", repre
 
 #### Preocupações de usabilidade (balões de pensamento)
 
-| Preocupação | Onde | Problema de usabilidade evidenciado  |
-| ----- | ----------- | ----------- |
+| Preocupação                                                                                    | Onde                                                       | Problema de usabilidade evidenciado                                                                                                                                                                                 |
+| ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | _"Esqueci minha senha do Gov.br, travei aqui de novo"_                                         | Etapa 3 (login)                                            | Falta de prevenção/recuperação de erro; barreira de autenticação para usuários com baixo letramento digital                                                                                                         |
 | _"Preciso de ajuda AGORA, por que tem tanto passo antes de eu achar o hospital mais próximo?"_ | Etapa 2 (pós-login)                                        | Baixa eficiência do fluxo em cenários de urgência; excesso de passos para uma tarefa crítica                                                                                                                        |
 | _"Não entendo esses ícones, a letra é muito pequena"_                                          | Etapas 7-8 (seleção de atendimento/localização)            | Falta de reconhecimento visual e legibilidade inadequada para público idoso                                                                                                                                         |
@@ -116,6 +116,56 @@ A estrutura de bolhas e relacionamentos foi mantida, e os "elos perdidos", repre
 - **Ícones de dente, coração e cruz médica:** tipos de serviços/especialidades disponíveis (ex.: saúde bucal, cardiologia, emergência).
 - **Mapa / Google Maps:** integração externa para visualização geográfica e cálculo de rota.
 
+## Rich Picture - Fluxo Conteudo
+
+### Versão 1.0 - Final
+
+**Autoria: Gabriel Mota**
+
+![Rich Picture do fluxo do login até a localização de um local da rede de saúde - versão 2](../assets/subequipe03-fluxos/rich-picture/RichPicture_Conteudo_V1.png)
+
+**Legenda da Rich Picture:** Fluxo de Busca de Conteudos no Meu SUS Digital - Versão Final
+
+Arquivo editável: [Rich Picture Usabilidade - V2](https://canva.link/3vhv5z8zezra9j7)
+
+Estrutura inicial do Rich Picture: a jornada do usuário é descrita por meio de uma sequência cronológica de 8 interações numeradas que mapeiam o percurso desde o login inicial via Gov.br até a navegação final para obtenção de Conteudos no SUS digital. O protagonismo da jornada é atribuído a um usuário com duvidas sobre um doença especifica, escolhido estrategicamente para evidenciar as barreiras de usabilidade de um usuário comum, enquanto balões de fala expressam preocupações (concerns) reais vivenciadas ao longo do processo, como entraves na autenticação de senhas, explicitando visualmente os gargalos de acessibilidade que impactam a experiência e a autonomia do cidadão na busca por atendimento em saúde.
+
+#### Convenção geral:
+
+- **Setas numeradas (1-N):** sequência cronológica de interações entre o usuário e o sistema, do login até a obtenção da rota até o atendimento.
+<!-- TODO: Não sei se o termo "letradas" é um bom indicativo da qualidade do meu portugues, caso seja encontrado uma palavra melhor trocar por favor, eu insisto -->
+- **Setas letradas (x.a/x.b):** sequência alternativa de interações que levam para um mesmo destino/resultado.
+- **Balões de fala (nuvens):** preocupações de usabilidade (concerns) expressas pelo usuário em cada etapa do fluxo.
+- **Personagem central:** usuário comum com duvidas.
+
+#### Sequência de interações
+
+| Nº  | Ação                         | Descrição                                           |
+| --- | ---------------------------- | --------------------------------------------------- |
+| 1   | Acessa o site                | Usuário entra na plataforma Meu SUS Digital         |
+| 2   | Redireciona autenticação     | Sistema encaminha o usuário para o login via gov.br |
+| 3   | Solicita CPF e senha         | gov.br pede as credenciais                          |
+| 4   | Informa CPF e Senha          | Usuário preenche os dados de login                  |
+| 5   | Acessa o menu principal      | Usuário retorna à plataforma já autenticado         |
+| 6   | Pesquisa o conteudo desejado | Usuário pesquisa pela doença ou categoria de doença |
+| 7   | Procura se encaixa           | Usuário verifica se a categoria encaixa na doença   |
+| 8   | Entra na página da doença    | Acessa e le o conteudo da doença                    |
+
+#### Preocupações de usabilidade (balões de pensamento)
+
+| Preocupação                                            | Onde               | Problema de usabilidade evidenciado                                                                         |
+| ------------------------------------------------------ | ------------------ | ----------------------------------------------------------------------------------------------------------- |
+| _"Esqueci minha senha do Gov.br, travei aqui de novo"_ | Etapa 3 (login)    | Falta de prevenção/recuperação de erro; barreira de autenticação para usuários com baixo letramento digital |
+| _"E se eu quiser pesquisar por sintomas?"_             | Etapa 6 (pesquisa) | Falta de opções de busca para pessoas que não tem conhecimento imediato da doença                           |
+
+#### Elementos gráficos e seu significado
+
+- **SUS Digital / gov.br:** sistemas envolvidos na autenticação e navegação.
+- **Ícone de menu (linhas horizontais):** representa o menu principal da plataforma.
+- **Ícone de lupa (pesquisa):** tela de pesquisa de doenças
+- **Ícones de categorias (categories):** pesquisa por tipos de categorias de doenças
+- **Documentos/paginas:** pagina relativa da doença escohida.
+
 ### Embasamento teórico para criação:
 
 1. DE MONTFORT UNIVERSITY. CTEC2402 Software Development Project: introducing rich pictures. Leicester: De Montfort University.
@@ -124,14 +174,15 @@ A estrutura de bolhas e relacionamentos foi mantida, e os "elos perdidos", repre
 
 ---
 
-| Nome do Membro | Contribuição  | Data       | Commit |
-| ------- | -------- | ---------- | ---- | 
-| [Gustavo Fornaciari](https://github.com/GUGOFO) | Criação do Repositorio | 17/08/2026 | [bd89d73](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/bd89d539a01494091740097d678627ae40bea3b4) | 
-| [Yasmim de Souza Santos](https://github.com/eii-yahs)| Criação da Rich Picture (Foco_01)  | 26/08/2026 | [15a0bd4](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/15a0bd48098080d4ccb30ff62adddb7065d30900#diff-150f62565e3799f0fc9eb794bca536c4d4c1c9f30c99a9944c4a3d03c25ae62a) |
-| [Davi Ursulino de Oliveira](https://github.com/DaviUrsulino) | Revisão da Rich Picture (Foco_01): balão de preocupação sobre geolocalização e nota de fidelidade dos ícones de tela | 27/08/2026 | [ab4ecfe](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/ab4ecfeb5fabbcb751118cbc5e6853c8adb0b089) |
-| [Yasmim de Souza Santos](https://github.com/eii-yahs)| Criação do arquivo separado para o artefato produzido | 28/08/2026 | [b3ff0bd](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/b3ff0bd607119ba03d1a7e0f335f0a59f35fe36d) |
-| [Yasmim de Souza Santos](https://github.com/eii-yahs) | Adiciona metodologia e contextualização sobre o que é o artefato| 28/08/2026 | [46d8228](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/46d822878e6eb6785ee8a3d1a1d4ee72dee9ee5f) |
-| [Davi Ursulino de Oliveira](https://github.com/DaviUrsulino) | Atualiza a Rich Picture com o balão de preocupação sobre geolocalização proposto na revisão | 28/08/2026 | [5926d56](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/5926d565ca8d294c770681451b0bc1a7be7fcd4d) |
-| [Gabriel Mota Oliveira](https://github.com/Gabro-MO)| Adição da Versão 2 da Rich Picture juntamente com a descrição das mudanças e atualização das legendas                | 28/08/2026 | [c336fef](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/c336fef6be8eadff44b53fba01e699a89bb5c7f8) |
-| [Gabriel Mota Oliveira](https://github.com/Gabro-MO)| Aumento do tamanho do usuário principal na Rich Picture V2 e correção da legenda | 28/08/2026 | [09c2cca](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/09c2ccaf596e22c9cb93ffb0a5127d190fe5899a) |
-| [Yasmim de Souza Santos](https://github.com/eii-yahs)| Adiciona versionamento das Rich Pictures para melhor rastreabilidade | 28/08/2026 | [b29c79a](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/b29c79ab49c998a204de44370e2e89710192e7a2) |
+| Nome do Membro                                               | Contribuição                                                                                                         | Data       | Commit                                                                                                                                                                                                                         |
+| ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Gustavo Fornaciari](https://github.com/GUGOFO)              | Criação do Repositorio                                                                                               | 17/08/2026 | [bd89d73](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/bd89d539a01494091740097d678627ae40bea3b4)                                                                       |
+| [Yasmim de Souza Santos](https://github.com/eii-yahs)        | Criação da Rich Picture (Foco_01)                                                                                    | 26/08/2026 | [15a0bd4](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/15a0bd48098080d4ccb30ff62adddb7065d30900#diff-150f62565e3799f0fc9eb794bca536c4d4c1c9f30c99a9944c4a3d03c25ae62a) |
+| [Davi Ursulino de Oliveira](https://github.com/DaviUrsulino) | Revisão da Rich Picture (Foco_01): balão de preocupação sobre geolocalização e nota de fidelidade dos ícones de tela | 27/08/2026 | [ab4ecfe](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/ab4ecfeb5fabbcb751118cbc5e6853c8adb0b089)                                                                       |
+| [Yasmim de Souza Santos](https://github.com/eii-yahs)        | Criação do arquivo separado para o artefato produzido                                                                | 28/08/2026 | [b3ff0bd](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/b3ff0bd607119ba03d1a7e0f335f0a59f35fe36d)                                                                       |
+| [Yasmim de Souza Santos](https://github.com/eii-yahs)        | Adiciona metodologia e contextualização sobre o que é o artefato                                                     | 28/08/2026 | [46d8228](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/46d822878e6eb6785ee8a3d1a1d4ee72dee9ee5f)                                                                       |
+| [Davi Ursulino de Oliveira](https://github.com/DaviUrsulino) | Atualiza a Rich Picture com o balão de preocupação sobre geolocalização proposto na revisão                          | 28/08/2026 | [5926d56](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/5926d565ca8d294c770681451b0bc1a7be7fcd4d)                                                                       |
+| [Gabriel Mota Oliveira](https://github.com/Gabro-MO)         | Adição da Versão 2 da Rich Picture juntamente com a descrição das mudanças e atualização das legendas                | 28/08/2026 | [c336fef](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/c336fef6be8eadff44b53fba01e699a89bb5c7f8)                                                                       |
+| [Gabriel Mota Oliveira](https://github.com/Gabro-MO)         | Aumento do tamanho do usuário principal na Rich Picture V2 e correção da legenda                                     | 28/08/2026 | [09c2cca](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/09c2ccaf596e22c9cb93ffb0a5127d190fe5899a)                                                                       |
+| [Yasmim de Souza Santos](https://github.com/eii-yahs)        | Adiciona versionamento das Rich Pictures para melhor rastreabilidade                                                 | 28/08/2026 | [b29c79a](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/b29c79ab49c998a204de44370e2e89710192e7a2)                                                                       |
+| [Gabriel Mota Oliveira](https://github.com/Gabro-MO)         | Adiciona a Rich Picture do fluxo de conteudos                                                                        | 28/08/2026 | --                                                                                                                                                                                                                             |
