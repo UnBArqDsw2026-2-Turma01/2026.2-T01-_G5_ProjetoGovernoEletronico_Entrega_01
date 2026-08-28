@@ -13,7 +13,7 @@ O trabalho foi dividido em duas etapas principais: criação e revisão.
 
 Na etapa de criação, com base no fluxo de busca por uma rede de saúde já levantado na fase de Engenharia Reversa (do login via gov.br até a obtenção de rotas no Google Maps), Yasmim de Souza Santos elaborou a primeira versão do rich picture na ferramenta Canva. As 15 interações identificadas foram representadas por meio de setas numeradas, e um usuário idoso foi escolhido como personagem central para evidenciar barreiras de usabilidade associadas a um perfil de baixo letramento digital.
 
-Na etapa de revisão, Davi Ursulino de Oliveira analisou o artefato de forma crítica e propôs dois ajustes: a inclusão de um novo balão de preocupação sobre a falta de transparência na solicitação de geolocalização, e uma nota apontando que os ícones genéricos usados nas etapas 7 a 11 não refletiam fielmente a interface real do sistema, apontamento que já orienta a próxima iteração do artefato.
+Na etapa de revisão, Davi Ursulino de Oliveira analisou o artefato de forma crítica e propôs a inclusão de um novo balão de preocupação sobre a falta de transparência na solicitação de geolocalização, ajuste que orienta a próxima iteração do artefato.
 
 Essa dinâmica de criação individual seguida de revisão colaborativa assíncrona está registrada, com as respectivas datas, na tabela de contribuições ao final deste documento.
 
@@ -85,8 +85,6 @@ Arquivo editável: [Rich Picture Usabilidade](https://canva.link/5nzidpjb7mkkt9k
 - **Ícones de dente, coração e cruz médica:** tipos de serviços/especialidades disponíveis (ex.: saúde bucal, cardiologia, emergência).
 - **Mapa / Google Maps:** integração externa para visualização geográfica e cálculo de rota.
 
-> **Nota de revisão** _(adição: Davi Ursulino de Oliveira, 26/08/2026)_: os elementos das etapas 7-11 (janela cinza com "Option 1/2/3 + OK") representam de forma genérica as telas de seleção de categoria e resultados, mas não correspondem literalmente à interface real do Meu SUS Digital, que exibe uma grade de ícones por categoria (Hospital, Maternidade, Unidade Básica de Saúde etc., ver prints em `assets/subequipe03-fluxos/fluxo-rede-de-saude/`). Sugestão para uma próxima versão: substituir esses elementos genéricos pelos ícones reais do sistema, aumentando a fidelidade do artefato com o que foi encontrado na Engenharia Reversa.
-
 ### Embasamento teórico para criação:
 
 1. DE MONTFORT UNIVERSITY. CTEC2402 Software Development Project: introducing rich pictures. Leicester: De Montfort University.
@@ -102,3 +100,4 @@ Arquivo editável: [Rich Picture Usabilidade](https://canva.link/5nzidpjb7mkkt9k
 | [Davi Ursulino de Oliveira](https://github.com/DaviUrsulino) | Revisão da Rich Picture (Foco_01): balão de preocupação sobre geolocalização e nota de fidelidade dos ícones de tela                                                  | 27/08/2026 |
 | [Yasmim de Souza Santos](https://github.com/eii-yahs) | Criação do arquivo separado para o artefato produzido | 28/08/2026 |
 | [Yasmim de Souza Santos](https://github.com/eii-yahs) | Adiciona metodologia e contextualização sobre o que é o artefato | 28/08/2026 |
+| [Yasmim de Souza Santos](https://github.com/eii-yahs) | Atualiza a Rich Picture com o balão de preocupação sobre geolocalização proposto na revisão | 28/08/2026 |
