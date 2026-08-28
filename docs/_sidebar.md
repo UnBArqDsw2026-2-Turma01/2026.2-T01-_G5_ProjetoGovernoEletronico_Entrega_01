@@ -21,7 +21,7 @@
 
 - [**1. Desenho de Software (Base)**](/DesenhoDeSoftware/1.Base.md)
   - 1.1 Relatórios
-      - [1.1.1. SubEquipe_01](/DesenhoDeSoftware/Relatórios/1.1.1.SubEquipe_01/1.1.1.SubEquipe_01.md)
+      - 1.1.1. SubEquipe_01
         - [Artefatos Generalistas](/DesenhoDeSoftware/Relatórios/1.1.1.SubEquipe_01/1.1.1.1.Artefatos%20Generalistas.md)
         - [NFR](/DesenhoDeSoftware/Relatórios/1.1.1.SubEquipe_01/1.1.1.2.NFR.md)
         - [BPMN](/DesenhoDeSoftware/Relatórios/1.1.1.SubEquipe_01/1.1.1.3.BPMN.md)
