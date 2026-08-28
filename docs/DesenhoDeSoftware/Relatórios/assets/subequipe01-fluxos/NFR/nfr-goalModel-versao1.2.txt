@@ -1,0 +1,490 @@
+{
+  "actors": [],
+  "orphans": [
+    {
+      "id": "716dc6e1-99f9-4d30-8070-80ce7ead217c",
+      "text": "Desempenho",
+      "type": "nfr.NFR",
+      "x": 20,
+      "y": 18
+    },
+    {
+      "id": "b6b04e61-325c-4589-9c4d-c1b99a756134",
+      "text": "Segurança",
+      "type": "nfr.NFR",
+      "x": 767,
+      "y": 30
+    },
+    {
+      "id": "97a247be-8723-4b43-ad0e-8a4497ad609e",
+      "text": "Usabilidade",
+      "type": "nfr.NFR",
+      "x": 1504,
+      "y": 33
+    },
+    {
+      "id": "be15d7dd-0620-4b8e-bc0c-c06d1c0e65ae",
+      "text": "Responsabilização",
+      "type": "nfr.NFR",
+      "x": 1155,
+      "y": 258
+    },
+    {
+      "id": "0400c98a-cfbc-43a4-b150-4deced5dde7a",
+      "text": "Confidencialidade",
+      "type": "nfr.NFR",
+      "x": 409,
+      "y": 159
+    },
+    {
+      "id": "4282059d-3a47-420f-81f3-78cd6e824f47",
+      "text": "Integridade",
+      "type": "nfr.NFR",
+      "x": 689,
+      "y": 199
+    },
+    {
+      "id": "6f938f0d-26b6-478c-91f1-a5f2cfd79211",
+      "text": "Autenticidade",
+      "type": "nfr.NFR",
+      "x": 1080,
+      "y": 410
+    },
+    {
+      "id": "a9cc8eae-bb35-46de-8921-56fb3747dc76",
+      "text": "PKCE: Verifier+ SHA-256",
+      "type": "nfr.Operationalization",
+      "x": 99,
+      "y": 366
+    },
+    {
+      "id": "3df74353-499f-4ed2-ac66-bab0d3aaa1a2",
+      "text": "TLS 1.3 / HTTPS",
+      "type": "nfr.Operationalization",
+      "x": 251,
+      "y": 446
+    },
+    {
+      "id": "691b6818-208b-4d36-bb8f-dfe901d03806",
+      "text": "Validação de assinatura do ID Token RS256",
+      "type": "nfr.Operationalization",
+      "x": 985,
+      "y": 585
+    },
+    {
+      "id": "8edb6225-faf3-4d94-ba4b-e8dccffb22d1",
+      "text": "POST back-channel",
+      "type": "nfr.Operationalization",
+      "x": 1197,
+      "y": 593
+    },
+    {
+      "id": "035ec490-a08c-4dec-af5a-dfbeb93c6de1",
+      "text": "Valida via JWKS",
+      "type": "nfr.Operationalization",
+      "x": 579,
+      "y": 491
+    },
+    {
+      "id": "d3a580ba-21ae-45bf-9ac6-461f439e94ca",
+      "text": "Verifica Issuer & Expiration",
+      "type": "nfr.Operationalization",
+      "x": 722,
+      "y": 589
+    },
+    {
+      "id": "941c828f-d56a-486e-ba43-c20192fe2f4c",
+      "text": "Secure Storage",
+      "type": "nfr.Operationalization",
+      "x": 415,
+      "y": 479
+    },
+    {
+      "id": "9b83ce7f-b205-4464-92b6-4ccf0c546a79",
+      "text": "Auth. Code TTL 60s",
+      "type": "nfr.Operationalization",
+      "x": 528,
+      "y": 315
+    },
+    {
+      "id": "b8d804d3-0961-4888-818f-fa64c080f453",
+      "text": "Registro de Logs de sessão e consentimento",
+      "type": "nfr.Operationalization",
+      "x": 1252,
+      "y": 480
+    },
+    {
+      "id": "4caa2e07-5ebb-4158-af00-e62f93eb3a94",
+      "text": "Bloqueia & audita acesso",
+      "type": "nfr.Operationalization",
+      "x": 1399,
+      "y": 373
+    },
+    {
+      "id": "5d01b56e-dcaf-4912-8e71-0ce0e1a1c5ea",
+      "text": "Privacidade/Conformidade LGPD",
+      "type": "nfr.NFR",
+      "x": 1297,
+      "y": 187
+    },
+    {
+      "id": "5d225b59-4cd2-4929-bc08-79d04a54b84b",
+      "text": "Log Auditável com Hash SHA-256",
+      "type": "nfr.Operationalization",
+      "x": 1580,
+      "y": 308
+    },
+    {
+      "id": "38cc9ae0-7242-479e-8618-183aeb0b7f01",
+      "text": "Gestão de Consentimento Explicito",
+      "type": "nfr.Operationalization",
+      "x": 1694,
+      "y": 197
+    },
+    {
+      "id": "379e9eeb-d489-4292-9935-5b873301c39e",
+      "text": "Criptografia em Repouso (AES-256)",
+      "type": "nfr.Operationalization",
+      "x": 156,
+      "y": 207
+    },
+    {
+      "id": "fe8af7d9-7760-471c-9857-6a05b3969385",
+      "text": "Comunicação mTLS",
+      "type": "nfr.Operationalization",
+      "x": 223,
+      "y": 110
+    },
+    {
+      "id": "4624d058-7c54-4747-ae87-7ef870b53691",
+      "text": "Padronização HL7 FHIR",
+      "type": "nfr.Operationalization",
+      "x": 827,
+      "y": 460
+    },
+    {
+      "id": "8098fc4f-9dd6-43a5-a35b-b62c411242af",
+      "text": "Log Imutável via SHA-256",
+      "type": "nfr.Operationalization",
+      "x": 893,
+      "y": 338
+    }
+  ],
+  "dependencies": [],
+  "links": [
+    {
+      "id": "a4e99b5e-a8fc-490b-9c40-7d03677cd27a",
+      "type": "nfr.AndRefinementLink",
+      "source": "0400c98a-cfbc-43a4-b150-4deced5dde7a",
+      "target": "b6b04e61-325c-4589-9c4d-c1b99a756134"
+    },
+    {
+      "id": "05eb927a-13a0-4717-8688-b504cadb405b",
+      "type": "nfr.AndRefinementLink",
+      "source": "4282059d-3a47-420f-81f3-78cd6e824f47",
+      "target": "b6b04e61-325c-4589-9c4d-c1b99a756134"
+    },
+    {
+      "id": "f440028c-57df-4383-8082-a821c1dd77ab",
+      "type": "nfr.AndRefinementLink",
+      "source": "6f938f0d-26b6-478c-91f1-a5f2cfd79211",
+      "target": "b6b04e61-325c-4589-9c4d-c1b99a756134"
+    },
+    {
+      "id": "1220b70f-5e02-4609-b26c-01884cc72355",
+      "type": "nfr.AndRefinementLink",
+      "source": "be15d7dd-0620-4b8e-bc0c-c06d1c0e65ae",
+      "target": "b6b04e61-325c-4589-9c4d-c1b99a756134"
+    },
+    {
+      "id": "a8c7aa63-78a0-4cb2-ae43-eb150bb6351c",
+      "type": "nfr.ContributionLink",
+      "source": "a9cc8eae-bb35-46de-8921-56fb3747dc76",
+      "target": "0400c98a-cfbc-43a4-b150-4deced5dde7a",
+      "label": "++"
+    },
+    {
+      "id": "82ca325b-177c-4667-9ac3-8ea543e23ccb",
+      "type": "nfr.ContributionLink",
+      "source": "3df74353-499f-4ed2-ac66-bab0d3aaa1a2",
+      "target": "0400c98a-cfbc-43a4-b150-4deced5dde7a",
+      "label": "++"
+    },
+    {
+      "id": "3c4af076-601a-4912-95b4-c77d4d5dfc46",
+      "type": "nfr.ContributionLink",
+      "source": "941c828f-d56a-486e-ba43-c20192fe2f4c",
+      "target": "0400c98a-cfbc-43a4-b150-4deced5dde7a",
+      "label": "++"
+    },
+    {
+      "id": "de1d7087-f3bc-4e78-a032-89c1c36260bb",
+      "type": "nfr.ContributionLink",
+      "source": "9b83ce7f-b205-4464-92b6-4ccf0c546a79",
+      "target": "0400c98a-cfbc-43a4-b150-4deced5dde7a",
+      "label": "+"
+    },
+    {
+      "id": "3a573bf2-ae31-47ef-8ec9-20d8cdb2c77e",
+      "type": "nfr.ContributionLink",
+      "source": "9b83ce7f-b205-4464-92b6-4ccf0c546a79",
+      "target": "4282059d-3a47-420f-81f3-78cd6e824f47",
+      "label": "++"
+    },
+    {
+      "id": "d20053e2-66e2-40a6-9b2a-42d7d68a2d96",
+      "type": "nfr.ContributionLink",
+      "source": "035ec490-a08c-4dec-af5a-dfbeb93c6de1",
+      "target": "4282059d-3a47-420f-81f3-78cd6e824f47",
+      "label": "++"
+    },
+    {
+      "id": "ac871fe1-6fab-4a51-9320-0690522e068e",
+      "type": "nfr.ContributionLink",
+      "source": "d3a580ba-21ae-45bf-9ac6-461f439e94ca",
+      "target": "4282059d-3a47-420f-81f3-78cd6e824f47",
+      "label": "++"
+    },
+    {
+      "id": "f7f546cc-5136-44e4-bc4e-e29acc385491",
+      "type": "nfr.ContributionLink",
+      "source": "691b6818-208b-4d36-bb8f-dfe901d03806",
+      "target": "6f938f0d-26b6-478c-91f1-a5f2cfd79211",
+      "label": "++"
+    },
+    {
+      "id": "f75a201f-179b-45d4-b71f-45b6d1ab12de",
+      "type": "nfr.ContributionLink",
+      "source": "8edb6225-faf3-4d94-ba4b-e8dccffb22d1",
+      "target": "6f938f0d-26b6-478c-91f1-a5f2cfd79211",
+      "label": "++"
+    },
+    {
+      "id": "28e541e5-75b4-405a-8151-c80dc28d9fdd",
+      "type": "nfr.ContributionLink",
+      "source": "b8d804d3-0961-4888-818f-fa64c080f453",
+      "target": "be15d7dd-0620-4b8e-bc0c-c06d1c0e65ae",
+      "label": "++"
+    },
+    {
+      "id": "b77bbc37-590d-4bda-8dd2-03ffeafa640c",
+      "type": "nfr.ContributionLink",
+      "source": "4caa2e07-5ebb-4158-af00-e62f93eb3a94",
+      "target": "be15d7dd-0620-4b8e-bc0c-c06d1c0e65ae",
+      "label": "++"
+    },
+    {
+      "id": "a6d4a5a3-6010-4bc4-a8c2-2d13e0c0dd12",
+      "type": "nfr.ContributionLink",
+      "source": "b8d804d3-0961-4888-818f-fa64c080f453",
+      "target": "4caa2e07-5ebb-4158-af00-e62f93eb3a94",
+      "label": "+"
+    },
+    {
+      "id": "bd04ddcb-2fb7-4d5b-a42d-40f0ddd1ff2a",
+      "type": "nfr.CorrelationLink",
+      "source": "b6b04e61-325c-4589-9c4d-c1b99a756134",
+      "target": "716dc6e1-99f9-4d30-8070-80ce7ead217c",
+      "label": "–"
+    },
+    {
+      "id": "4c7e9bc9-8eb3-46a9-9a0c-6fc2f60d2d34",
+      "type": "nfr.CorrelationLink",
+      "source": "b6b04e61-325c-4589-9c4d-c1b99a756134",
+      "target": "97a247be-8723-4b43-ad0e-8a4497ad609e",
+      "label": "–"
+    },
+    {
+      "id": "26bd1f57-8668-43ec-84d8-a5556ef8abf3",
+      "type": "nfr.AndRefinementLink",
+      "source": "5d01b56e-dcaf-4912-8e71-0ce0e1a1c5ea",
+      "target": "b6b04e61-325c-4589-9c4d-c1b99a756134"
+    },
+    {
+      "id": "d9367385-8597-4f2a-ab42-0981b7b4397e",
+      "type": "nfr.ContributionLink",
+      "source": "5d225b59-4cd2-4929-bc08-79d04a54b84b",
+      "target": "5d01b56e-dcaf-4912-8e71-0ce0e1a1c5ea",
+      "label": "++"
+    },
+    {
+      "id": "39f2242c-e622-4279-bbd3-0f94b5a5aa45",
+      "type": "nfr.ContributionLink",
+      "source": "38cc9ae0-7242-479e-8618-183aeb0b7f01",
+      "target": "5d01b56e-dcaf-4912-8e71-0ce0e1a1c5ea",
+      "label": "++"
+    },
+    {
+      "id": "bfb7ed02-5e56-4764-9715-21dbde71d295",
+      "type": "nfr.ContributionLink",
+      "source": "379e9eeb-d489-4292-9935-5b873301c39e",
+      "target": "0400c98a-cfbc-43a4-b150-4deced5dde7a",
+      "label": "++"
+    },
+    {
+      "id": "c5006192-5d66-4a9b-beea-e2a9100bd37d",
+      "type": "nfr.ContributionLink",
+      "source": "fe8af7d9-7760-471c-9857-6a05b3969385",
+      "target": "0400c98a-cfbc-43a4-b150-4deced5dde7a",
+      "label": "++"
+    },
+    {
+      "id": "8d0c93aa-9789-48c2-98a0-0e6ab76a045e",
+      "type": "nfr.ContributionLink",
+      "source": "4624d058-7c54-4747-ae87-7ef870b53691",
+      "target": "4282059d-3a47-420f-81f3-78cd6e824f47",
+      "label": "+"
+    },
+    {
+      "id": "d0f4092f-75d1-4275-b7ef-eae968095acc",
+      "type": "nfr.ContributionLink",
+      "source": "8098fc4f-9dd6-43a5-a35b-b62c411242af",
+      "target": "4282059d-3a47-420f-81f3-78cd6e824f47",
+      "label": "++"
+    },
+    {
+      "id": "662824ad-a6e9-4ccc-85c7-60f379731ddc",
+      "type": "nfr.ContributionLink",
+      "source": "fe8af7d9-7760-471c-9857-6a05b3969385",
+      "target": "716dc6e1-99f9-4d30-8070-80ce7ead217c",
+      "label": "– –"
+    },
+    {
+      "id": "c8044433-d1d9-4c51-8ed6-3e8e0afa14e0",
+      "type": "nfr.ContributionLink",
+      "source": "379e9eeb-d489-4292-9935-5b873301c39e",
+      "target": "716dc6e1-99f9-4d30-8070-80ce7ead217c",
+      "label": "– –"
+    },
+    {
+      "id": "b076e7cf-6dbf-478a-a61a-e96b4dd95d6f",
+      "type": "nfr.ContributionLink",
+      "source": "5d01b56e-dcaf-4912-8e71-0ce0e1a1c5ea",
+      "target": "97a247be-8723-4b43-ad0e-8a4497ad609e",
+      "label": "–"
+    },
+    {
+      "id": "b2c0451e-7ba8-46a8-a744-33d3cd5f5068",
+      "type": "nfr.ContributionLink",
+      "source": "a9cc8eae-bb35-46de-8921-56fb3747dc76",
+      "target": "716dc6e1-99f9-4d30-8070-80ce7ead217c",
+      "label": "+"
+    },
+    {
+      "id": "56091976-be80-4125-a0b1-e959ad8d9824",
+      "type": "nfr.CorrelationLink",
+      "source": "38cc9ae0-7242-479e-8618-183aeb0b7f01",
+      "target": "97a247be-8723-4b43-ad0e-8a4497ad609e",
+      "label": "–"
+    }
+  ],
+  "display": {
+    "716dc6e1-99f9-4d30-8070-80ce7ead217c": {
+      "width": 105.81739807128906,
+      "height": 64.8278579711914
+    },
+    "b6b04e61-325c-4589-9c4d-c1b99a756134": {
+      "width": 124.8155517578125,
+      "height": 70.82688903808594
+    },
+    "97a247be-8723-4b43-ad0e-8a4497ad609e": {
+      "width": 116.816162109375,
+      "height": 69.82688903808594
+    },
+    "be15d7dd-0620-4b8e-bc0c-c06d1c0e65ae": {
+      "width": 143.8134765625,
+      "height": 78.82472229003906
+    },
+    "0400c98a-cfbc-43a4-b150-4deced5dde7a": {
+      "width": 113.81658935546875,
+      "height": 72.32652282714844
+    },
+    "4282059d-3a47-420f-81f3-78cd6e824f47": {
+      "width": 113.81658935546875,
+      "height": 69.82666015625
+    },
+    "6f938f0d-26b6-478c-91f1-a5f2cfd79211": {
+      "width": 106.81732177734375,
+      "height": 73.825927734375
+    },
+    "a9cc8eae-bb35-46de-8921-56fb3747dc76": {
+      "width": 114.81649017333984,
+      "height": 66.82760620117188
+    },
+    "3df74353-499f-4ed2-ac66-bab0d3aaa1a2": {
+      "width": 118.39453125,
+      "height": 52.988494873046875
+    },
+    "691b6818-208b-4d36-bb8f-dfe901d03806": {
+      "width": 131.39324951171875,
+      "height": 81.982177734375
+    },
+    "8edb6225-faf3-4d94-ba4b-e8dccffb22d1": {
+      "width": 98.818115234375,
+      "height": 61.828826904296875
+    },
+    "035ec490-a08c-4dec-af5a-dfbeb93c6de1": {
+      "width": 126.81524658203125,
+      "height": 70.82666015625
+    },
+    "d3a580ba-21ae-45bf-9ac6-461f439e94ca": {
+      "width": 123.39404296875,
+      "height": 52.988494873046875
+    },
+    "941c828f-d56a-486e-ba43-c20192fe2f4c": {
+      "width": 115.81637573242188,
+      "height": 67.82736206054688
+    },
+    "9b83ce7f-b205-4464-92b6-4ccf0c546a79": {
+      "width": 123.81536865234375,
+      "height": 66.82711791992188
+    },
+    "b8d804d3-0961-4888-818f-fa64c080f453": {
+      "width": 156.3907470703125,
+      "height": 76.9832763671875
+    },
+    "4caa2e07-5ebb-4158-af00-e62f93eb3a94": {
+      "width": 125.8154296875,
+      "height": 65.82809448242188
+    },
+    "5d01b56e-dcaf-4912-8e71-0ce0e1a1c5ea": {
+      "width": 186.387939453125,
+      "height": 69.98480224609375
+    },
+    "5d225b59-4cd2-4929-bc08-79d04a54b84b": {
+      "width": 138.392578125,
+      "height": 63.4862060546875
+    },
+    "38cc9ae0-7242-479e-8618-183aeb0b7f01": {
+      "width": 119.3944091796875,
+      "height": 77.483154296875
+    },
+    "379e9eeb-d489-4292-9935-5b873301c39e": {
+      "width": 135.3928451538086,
+      "height": 72.984130859375
+    },
+    "fe8af7d9-7760-471c-9857-6a05b3969385": {
+      "width": 116.39472770690918,
+      "height": 62.98631286621094
+    },
+    "4624d058-7c54-4747-ae87-7ef870b53691": {
+      "width": 126.39373779296875,
+      "height": 61.986541748046875
+    },
+    "8098fc4f-9dd6-43a5-a35b-b62c411242af": {
+      "width": 121.39422607421875,
+      "height": 56.48773193359375
+    }
+  },
+  "tool": "dsm3-goals",
+  "metamodelVersion": "1.0",
+  "saveDate": "Fri, 28 Aug 2026 15:32:09 GMT",
+  "diagram": {
+    "width": 2136,
+    "height": 1300,
+    "name": "Example NFR model",
+    "customProperties": {
+      "Description": "This tool supports two things that are often troublesome to develop with generic modelling frameworks:\n - draw complex shapes (clouds) without distorting when they are resized\n - create links from an element to a link (claim links)"
+    }
+  }
+}
