@@ -40,6 +40,8 @@ Neste artefato, a técnica foi usada para representar o fluxo de busca por uma r
 
 ![Rich Picture do fluxo do login até a localização de um local da rede de saúde - versão 1](../assets/subequipe03-fluxos/rich-picture/rich-picture-usabilidade.png)
 
+**Legenda da Rich Picture:** Fluxo de Busca de Rede Credenciada no Meu SUS Digital
+
 Arquivo editável: [Rich Picture Usabilidade - V1](https://canva.link/5nzidpjb7mkkt9k)
 
 Estrutura inicial do Rich Picture: a jornada do usuário é descrita por meio de uma sequência cronológica de 15 interações numeradas que mapeiam o percurso desde o login inicial via Gov.br até a navegação final para obtenção de rotas no Google Maps. O protagonismo da jornada é atribuído a um usuário idoso, escolhido estrategicamente para evidenciar as barreiras de usabilidade enfrentadas por perfis de baixo letramento digital, enquanto balões de fala expressam preocupações (concerns) reais vivenciadas ao longo do processo, como entraves na autenticação de senhas, excesso de passos intermediários, dificuldades de leitura de ícones e receios sobre o compartilhamento de localização, explicitando visualmente os gargalos de acessibilidade que impactam a experiência e a autonomia do cidadão na busca por atendimento em saúde.
@@ -48,11 +50,11 @@ Estrutura inicial do Rich Picture: a jornada do usuário é descrita por meio de
 
 ![Rich Picture do fluxo do login até a localização de um local da rede de saúde - versão 2](../assets/subequipe03-fluxos/rich-picture/RichPicture.png)
 
+**Legenda da Rich Picture:** Fluxo de Busca de Rede Credenciada no Meu SUS Digital
+
 Arquivo editável: [Rich Picture Usabilidade - V2](https://canva.link/2kcko4c4ml3u3k1)
 
 A estrutura de bolhas e relacionamentos foi mantida, e os "elos perdidos", representados pela colisão das setas _3 e 4_, e _8 e 9_, foram adicionados para deixar a leitura mais fluida. as setas _5_ e _10_ receberam uma subdvisão (_x.a/x.b_) com o intuito de indicar caminhos alternativos para um mesmo destino. Além disso, uma leve reorganização das bolhas foi feita para poder acomodar melhor as mudanças anteriores.
-
-Legenda da Rich Picture: Fluxo de Busca de Rede Credenciada no Meu SUS Digital
 
 #### Convenção geral:
 
@@ -117,3 +119,4 @@ Legenda da Rich Picture: Fluxo de Busca de Rede Credenciada no Meu SUS Digital
 | [Yasmim de Souza Santos](https://github.com/eii-yahs)        | Adiciona metodologia e contextualização sobre o que é o artefato                                                     | 28/08/2026 |
 | [Davi Ursulino de Oliveira](https://github.com/DaviUrsulino) | Atualiza a Rich Picture com o balão de preocupação sobre geolocalização proposto na revisão                          | 28/08/2026 |
 | [Gabriel Mota Oliveira](https://github.com/Gabro-MO)         | Adição da Versão 2 da Rich Picture juntamente com a descrição das mudanças e atualização das legendas                | 28/08/2026 |
+| [Gabriel Mota Oliveira](https://github.com/Gabro-MO)         | Aumento do tamanho do usuário principal na Rich Picture V2 e correção da legenda                                     | 28/08/2026 |
