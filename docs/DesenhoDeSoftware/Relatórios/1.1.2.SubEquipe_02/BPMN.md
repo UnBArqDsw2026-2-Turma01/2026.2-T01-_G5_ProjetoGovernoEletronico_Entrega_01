@@ -106,7 +106,8 @@ Os três diagramas produzidos, com a leitura do que cada fluxo revela sobre o Me
 
 ---
 
-| Nome do Membro | Contribuição | Data |
-| :--- | :--- | :--- |
-| [Victor Leandro](https://github.com/Afrontoso) | Primeira versao do BPMN | 27/08/2026 |
-| [Victor Leandro](https://github.com/Afrontoso), [Ana Beatriz](https://github.com/AnnaBeatrizAraujo) e [Gustavo Fornaciari](https://github.com/GUGOFO) | Segunda versão do BPMN: subprocessos, caminhos de exceção, ciclo de avaliação e correções de notação | 28/08/2026 |
+| Nome do Membro | Contribuição | Data | Commit |
+| -- | -- | -- | -- |
+| [Gustavo Fornaciari](https://github.com/GUGOFO) | Criação do Repositorio | 17/08/2026 | [16f12f9](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/tree/16f12f934a85996e1045dc30a5bf5ce656c91e1a) |
+| [Victor Leandro](https://github.com/Afrontoso) | Primeira versao do BPMN | 27/08/2026 | [3b7d92d](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/tree/3b7d92d01a0b5785be0c526696a4d3bc18423427) |
+| [Victor Leandro](https://github.com/Afrontoso), [Ana Beatriz](https://github.com/AnnaBeatrizAraujo) e [Gustavo Fornaciari](https://github.com/GUGOFO) | Segunda versão do BPMN: subprocessos, caminhos de exceção, ciclo de avaliação e correções de notação | 28/08/2026 | [54ff343](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/tree/54ff34344982474d622259624f86dc923608f649) |

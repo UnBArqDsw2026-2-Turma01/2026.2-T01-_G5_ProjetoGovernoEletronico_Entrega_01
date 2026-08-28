@@ -47,7 +47,7 @@ O projeto foi orientado ao site [**Meu SUS Digital**](https://meususdigital.saud
 
 ---
 
-| Nome do Membro | Contribuição | Data |
-| -- | -- | -- |
-| [Gustavo Fornaciari](https://github.com/GUGOFO) | Criação do Repositorio | 17/08/2026 |
-| [Ana Beatriz](https://github.com/AnnaBeatrizAraujo) | Customização da Pagina | 28/08/2026 |
+| Nome do Membro | Contribuição | Data | Commit |
+| -- | -- | -- | -- |
+| [Gustavo Fornaciari](https://github.com/GUGOFO) | Criação do Repositorio | 17/08/2026 | [16f12f9](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/tree/16f12f934a85996e1045dc30a5bf5ce656c91e1a) |
+| [Ana Beatriz](https://github.com/AnnaBeatrizAraujo) | Customização da Pagina | 28/08/2026 | [29e4a90](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/tree/29e4a908a13257c6b4848dfc658455e9aedd081e) |

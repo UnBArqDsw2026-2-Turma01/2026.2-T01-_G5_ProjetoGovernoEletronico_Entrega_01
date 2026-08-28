@@ -88,8 +88,9 @@ Gráfico de Interdependência de Softgoals (SIG) construído na notação do NFR
 
 ---
 
-| Nome do Membro | Contribuição | Data |
-| :--- | :--- | :--- |
-| [Gustavo Fornaciari](https://github.com/GUGOFO) | Adicionando SIG versão 1 | 27/08/2026 |
-| [Gustavo Fornaciari](https://github.com/GUGOFO) | Adicionar primeira versão a nova pagina| 27/08/2026 |
-| [Gustavo Fornaciari](https://github.com/GUGOFO), [Victor Leandro](https://github.com/Afrontoso) e [Ana Beatriz](https://github.com/AnnaBeatrizAraujo) | Adicionar contribuicoes da Ana e Victor para V2| 28/08/2026 |
+| Nome do Membro | Contribuição | Data | Commit |
+| :--- | :--- | :--- | :--- |
+| [Gustavo Fornaciari](https://github.com/GUGOFO) | Criação do Repositorio | 17/08/2026 | [16f12f9](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/tree/16f12f934a85996e1045dc30a5bf5ce656c91e1a) |
+| [Gustavo Fornaciari](https://github.com/GUGOFO) | Adicionando SIG versão 1 | 27/08/2026 | [0443497](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/tree/044349759eb7d474dfe120128d1e0b9f58d87fe9) |
+| [Gustavo Fornaciari](https://github.com/GUGOFO) | Adicionar primeira versão a nova pagina | 27/08/2026 | [53bcda0](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/tree/53bcda06f6d49c1cc5620e584b0a992641caba5b) |
+| [Gustavo Fornaciari](https://github.com/GUGOFO), [Victor Leandro](https://github.com/Afrontoso) e [Ana Beatriz](https://github.com/AnnaBeatrizAraujo) | Adicionar contribuicoes da Ana e Victor para V2 | 28/08/2026 | [d29ecf8](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/tree/53bcda06f6d49c1cc5620e584b0a992641caba5b) |

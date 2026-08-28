@@ -6,8 +6,8 @@
 | Gustavo Fornaciari | Aprendi a aplicar o NFR Framework para estruturar requisitos não-funcionais (Segurança e Usabilidade) em um SIG. Compreendi como mapear e avaliar os *trade-offs* entre soluções técnicas (operacionalizações) e seus impactos (positivos/negativos) na arquitetura. | Utilizei a IA para auxiliar no refinamento da notação dos softgoals e operacionalizaciones, validando o encadeamento dos impactos e *trade-offs* no SIG, além de estruturar a documentação no padrão Markdown. |
 | Victor Leandro | ... | ... |
 
-| Nome do Membro | Contribuição | Data |
-| -- | -- | -- |
-| [Gustavo Fornaciari](https://github.com/GUGOFO) | Criação do Repositorio | 17/08/2026 |
-| [Ana Beatriz](https://github.com/AnnaBeatrizAraujo)| Ponto de vista sobre o uso de IA Generativa | 27/08/2026 |
-| [Gustavo Fornaciari](https://github.com/GUGOFO) | Adicionou o seu ponto de vista sobre IA | 27/08/2026 |
+| Nome do Membro | Contribuição | Data | Commit |
+| -- | -- | -- | -- |
+| [Gustavo Fornaciari](https://github.com/GUGOFO) | Criação do Repositorio | 17/08/2026 | [16f12f9](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/tree/16f12f934a85996e1045dc30a5bf5ce656c91e1a) |
+| [Ana Beatriz](https://github.com/AnnaBeatrizAraujo)| Ponto de vista sobre o uso de IA Generativa | 27/08/2026 | [e427551](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/tree/e42755111cada51b2a26d17a9f46adbba59dac16) |
+| [Gustavo Fornaciari](https://github.com/GUGOFO) | Adicionou o seu ponto de vista sobre IA | 27/08/2026 | [57fd286](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/tree/57fd286a553c3a2a16317c7d478ecd3cd1ea2b0c)  |

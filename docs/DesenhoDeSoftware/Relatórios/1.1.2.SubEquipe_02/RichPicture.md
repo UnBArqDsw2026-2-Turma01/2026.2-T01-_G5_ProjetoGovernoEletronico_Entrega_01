@@ -80,7 +80,8 @@ O trabalho foi realizado em conjunto pela equipe, com discussões sobre quais el
 
 ---
 
-| Nome do Membro | Contribuição | Data |
-| :--- | :--- | :--- |
-| [Ana Beatriz](https://github.com/AnnaBeatrizAraujo) | Adicionando o Rich Picture e a legenda | 27/08/2026 |
-| [Ana Beatriz](https://github.com/AnnaBeatrizAraujo), [Gustavo Fornaciari](https://github.com/GUGOFO) e [Victor Leandro](https://github.com/Afrontoso) | Adicionando segunda versão do Rich Picture | 27/08/2026 |
+| Nome do Membro | Contribuição | Data | Commit |
+| :--- | :--- | :--- | :--- |
+| [Gustavo Fornaciari](https://github.com/GUGOFO) | Criação do Repositorio | 17/08/2026 | [16f12f9](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/tree/16f12f934a85996e1045dc30a5bf5ce656c91e1a) |
+| [Ana Beatriz](https://github.com/AnnaBeatrizAraujo) | Adicionando o Rich Picture e a legenda | 27/08/2026 | [9b56286](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/tree/9b562860382f2c3c6bf83f8c0f92bfdaf3939a58) |
+| [Ana Beatriz](https://github.com/AnnaBeatrizAraujo), [Gustavo Fornaciari](https://github.com/GUGOFO) e [Victor Leandro](https://github.com/Afrontoso) | Adicionando segunda versão do Rich Picture | 27/08/2026 | [5468d1c](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/tree/5468d1cf08d365502b6271cd7b52297abb961a01) |
