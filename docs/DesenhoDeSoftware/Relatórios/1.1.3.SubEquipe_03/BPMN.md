@@ -11,7 +11,7 @@ Mira-se no MM no FOCO, com a entrega mínima.
 | Gabriel Mota Oliveira     |
 | Yasmim de Souza Santos    |
 
-## Metodologia do Foco_02
+## Metodologia do BPMN
 
 O trabalho foi dividido em duas etapas principais: criação e revisão.
 

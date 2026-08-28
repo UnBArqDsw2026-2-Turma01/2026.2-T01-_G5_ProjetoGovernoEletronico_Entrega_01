@@ -8,15 +8,15 @@
 | Davi Ursulino de Oliveira |
 | Gabriel Mota Oliveira     |
 
-## Metodologia do Foco_01
+## Metodologia da Rich Picture
 
 O trabalho foi dividido em duas etapas principais: criação e revisão.
 
-Na etapa de criação, com base no fluxo de busca por uma rede de saúde já levantado na fase de Engenharia Reversa (do login via gov.br até a obtenção de rotas no Google Maps), Yasmim de Souza Santos elaborou a primeira versão do rich picture na ferramenta Canva. As 15 interações identificadas foram representadas por meio de setas numeradas, e um usuário idoso foi escolhido como personagem central para evidenciar barreiras de usabilidade associadas a um perfil de baixo letramento digital.
+Na etapa de criação, com base no fluxo de busca por uma rede de saúde já levantado na fase de Engenharia Reversa (do login via gov.br até a obtenção de rotas no Google Maps), Yasmim de Souza Santos elaborou a primeira versão do rich picture na ferramenta Canva. As 15 interações identificadas foram representadas por meio de setas numeradas, e um usuário idoso foi escolhido como personagem central para evidenciar barreiras de usabilidade associadas a um perfil de baixo letramento digital. Em seguida, Yasmim também redigiu a metodologia e a contextualização do artefato produzido.
 
-Na etapa de revisão, Davi Ursulino de Oliveira analisou o artefato de forma crítica e propôs a inclusão de um novo balão de preocupação sobre a falta de transparência na solicitação de geolocalização, ajuste que orienta a próxima iteração do artefato.
+Na etapa de revisão, Davi Ursulino de Oliveira analisou o artefato de forma crítica e propôs a inclusão de um novo balão de preocupação sobre a falta de transparência na solicitação de geolocalização, ajuste posteriormente incorporado por ele mesmo em uma nova versão da Rich Picture. A partir dessa revisão, Gabriel Mota Oliveira produziu a Versão 2 do artefato, documentando as mudanças realizadas e atualizando a legenda, e, em uma revisão subsequente, ajustou o tamanho do usuário principal e corrigiu a legenda. Por fim, Yasmim de Souza Santos adicionou o versionamento das Rich Pictures ao documento, de modo a garantir a rastreabilidade das alterações entre as versões.
 
-Essa dinâmica de criação individual seguida de revisão colaborativa assíncrona está registrada, com as respectivas datas, na tabela de contribuições ao final deste documento.
+Essa dinâmica de criação individual seguida de revisão colaborativa assíncrona está registrada, com as respectivas datas e commits, na tabela de contribuições ao final deste documento.
 
 ## O que é uma Rich Picture
 

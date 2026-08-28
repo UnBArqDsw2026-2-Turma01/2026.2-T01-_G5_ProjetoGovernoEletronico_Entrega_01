@@ -1,4 +1,4 @@
-# NFR Framework
+# NFR Framework - Foco_1
 
 ## Participantes do artefato
 
@@ -7,6 +7,16 @@
 | Gabriel Mota Oliveira     |
 | Yasmim de Souza Santos    |
 | Davi Ursulino de Oliveira |
+
+## Metodologia do NFR/SIG
+
+O trabalho foi dividido em duas etapas principais: criação e revisão.
+
+Na etapa de criação, Gabriel Mota Oliveira elaborou a primeira versão do SIG (Softgoal Interdependency Graph) de Usabilidade, incluindo a legenda da notação do NFR Framework, e complementou o artefato com o embasamento teórico, a justificativa de uso e comentários adicionais sobre as escolhas de modelagem. Posteriormente, Yasmim de Souza Santos separou o artefato em um arquivo próprio e produziu a Versão 2 do SIG, junto das seções conceituais "O que é um NFR" e "O que é um SIG" e da seção "Leitura do SIG", que interpreta textualmente a decomposição dos softgoals representados no diagrama.
+
+Na etapa de revisão, Gabriel Mota Oliveira adicionou o link para o guia de NFR utilizado como referência e realizou correções textuais no documento. Em seguida, Davi Ursulino de Oliveira revisou criticamente o SIG produzido e elaborou a Versão 3 do artefato, incorporando ajustes que fecharam as quatro lacunas identificadas na tabela de rastreabilidade com o Foco_01.
+
+Essa dinâmica de criação individual seguida de revisão colaborativa assíncrona está registrada, com as respectivas datas e commits, na tabela de contribuições ao final deste documento.
 
 ## O que é um NFR (Requisito Não Funcional)
 
@@ -138,3 +148,4 @@ Essa comparação materializa, na prática, a rastreabilidade entre o modelo inf
 | [Yasmim de Souza Santos](https://github.com/eii-yahs) | Adição da Versão 2 do SIG de Usabilidade, das seções conceituais "O que é um NFR" e "O que é um SIG", e da seção "Leitura do SIG" | 28/08/2026 | [d1dae6e](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/d1dae6e296667890477c4802b22f6f08ebc06a73) |
 | [Gabriel Mota Oliveira](https://github.com/Gabro-MO)  | Adição do link para guia NFR e correção textual (Foco_01) | 28/08/2026 | [2811137](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/281113700f39c9d4521e498f0913245cfbb77ac5) |
 | [Davi Ursulino de Oliveira](https://github.com/DaviUrsulino) | Revisão do SIG e criação da Versão 3, fechando as 4 lacunas da tabela de rastreabilidade com o Foco_01 | 28/08/2026 | [59beaae](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/59beaaeb24a4b2733432713cec543a4686ee777a) [4200208](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/4200208fa818f65fadef76e51aa716a922c0cfc8) [83a126f](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/83a126f702fd672b8f5248532a4792f7fe3dcea0) |
+| [Yasmim de Souza Santos](https://github.com/eii-yahs) | Adição da metodologia de criação e revisão do SIG | 28/08/2026 |  |
