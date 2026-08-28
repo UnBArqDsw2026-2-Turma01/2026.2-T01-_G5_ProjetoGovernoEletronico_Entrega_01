@@ -50,6 +50,9 @@ Gráfico de Interdependência de Softgoals (SIG) construído na notação do NFR
   * *IA com Leitura e Extração de Históricos* (`++` em Localização de Dados, `+` em Velocidade de Acesso)
   * *Chamada API Externa* (`-` em Velocidade de Acesso)
 
+## Embasamento Metodológico 
+  SERRANO, Milene; SERRANO, Maurício. [Requisitos – Aula 17: NFR Framework](https://drive.google.com/file/d/1barJrSu7LXNuprttazBs7J7nVgCTgul8/view). Material de aula. Universidade de Brasília (UnB) - Faculdade do Gama (FGA).  
+
 
 ## Histórico de Versionamento
 
