@@ -5,169 +5,218 @@
       "id": "716dc6e1-99f9-4d30-8070-80ce7ead217c",
       "text": "Desempenho",
       "type": "nfr.NFR",
-      "x": 20,
-      "y": 18
+      "x": 14,
+      "y": 20
     },
     {
       "id": "b6b04e61-325c-4589-9c4d-c1b99a756134",
       "text": "Segurança",
       "type": "nfr.NFR",
-      "x": 767,
+      "x": 809,
       "y": 30
     },
     {
       "id": "97a247be-8723-4b43-ad0e-8a4497ad609e",
       "text": "Usabilidade",
       "type": "nfr.NFR",
-      "x": 1504,
-      "y": 33
+      "x": 1546,
+      "y": 34
     },
     {
       "id": "be15d7dd-0620-4b8e-bc0c-c06d1c0e65ae",
       "text": "Responsabilização",
       "type": "nfr.NFR",
-      "x": 1155,
+      "x": 1197,
       "y": 258
     },
     {
       "id": "0400c98a-cfbc-43a4-b150-4deced5dde7a",
       "text": "Confidencialidade",
       "type": "nfr.NFR",
-      "x": 409,
+      "x": 451,
       "y": 159
     },
     {
       "id": "4282059d-3a47-420f-81f3-78cd6e824f47",
       "text": "Integridade",
       "type": "nfr.NFR",
-      "x": 689,
+      "x": 731,
       "y": 199
     },
     {
       "id": "6f938f0d-26b6-478c-91f1-a5f2cfd79211",
       "text": "Autenticidade",
       "type": "nfr.NFR",
-      "x": 1080,
+      "x": 1122,
       "y": 410
     },
     {
       "id": "a9cc8eae-bb35-46de-8921-56fb3747dc76",
       "text": "PKCE: Verifier+ SHA-256",
       "type": "nfr.Operationalization",
-      "x": 99,
-      "y": 366
+      "x": 13,
+      "y": 586
     },
     {
       "id": "3df74353-499f-4ed2-ac66-bab0d3aaa1a2",
       "text": "TLS 1.3 / HTTPS",
       "type": "nfr.Operationalization",
-      "x": 251,
+      "x": 293,
       "y": 446
     },
     {
       "id": "691b6818-208b-4d36-bb8f-dfe901d03806",
       "text": "Validação de assinatura do ID Token RS256",
       "type": "nfr.Operationalization",
-      "x": 985,
+      "x": 1027,
       "y": 585
     },
     {
       "id": "8edb6225-faf3-4d94-ba4b-e8dccffb22d1",
       "text": "POST back-channel",
       "type": "nfr.Operationalization",
-      "x": 1197,
+      "x": 1239,
       "y": 593
     },
     {
       "id": "035ec490-a08c-4dec-af5a-dfbeb93c6de1",
       "text": "Valida via JWKS",
       "type": "nfr.Operationalization",
-      "x": 579,
+      "x": 621,
       "y": 491
     },
     {
       "id": "d3a580ba-21ae-45bf-9ac6-461f439e94ca",
       "text": "Verifica Issuer & Expiration",
       "type": "nfr.Operationalization",
-      "x": 722,
+      "x": 764,
       "y": 589
     },
     {
       "id": "941c828f-d56a-486e-ba43-c20192fe2f4c",
       "text": "Secure Storage",
       "type": "nfr.Operationalization",
-      "x": 415,
+      "x": 457,
       "y": 479
     },
     {
       "id": "9b83ce7f-b205-4464-92b6-4ccf0c546a79",
       "text": "Auth. Code TTL 60s",
       "type": "nfr.Operationalization",
-      "x": 528,
+      "x": 570,
       "y": 315
     },
     {
       "id": "b8d804d3-0961-4888-818f-fa64c080f453",
       "text": "Registro de Logs de sessão e consentimento",
       "type": "nfr.Operationalization",
-      "x": 1252,
+      "x": 1294,
       "y": 480
     },
     {
       "id": "4caa2e07-5ebb-4158-af00-e62f93eb3a94",
       "text": "Bloqueia & audita acesso",
       "type": "nfr.Operationalization",
-      "x": 1399,
-      "y": 373
+      "x": 1701,
+      "y": 468
     },
     {
       "id": "5d01b56e-dcaf-4912-8e71-0ce0e1a1c5ea",
       "text": "Privacidade/Conformidade LGPD",
       "type": "nfr.NFR",
-      "x": 1297,
-      "y": 187
+      "x": 1292,
+      "y": 162
     },
     {
       "id": "5d225b59-4cd2-4929-bc08-79d04a54b84b",
       "text": "Log Auditável com Hash SHA-256",
       "type": "nfr.Operationalization",
-      "x": 1580,
-      "y": 308
+      "x": 1581,
+      "y": 339
     },
     {
       "id": "38cc9ae0-7242-479e-8618-183aeb0b7f01",
       "text": "Gestão de Consentimento Explicito",
       "type": "nfr.Operationalization",
-      "x": 1694,
-      "y": 197
+      "x": 1577,
+      "y": 214
     },
     {
       "id": "379e9eeb-d489-4292-9935-5b873301c39e",
       "text": "Criptografia em Repouso (AES-256)",
       "type": "nfr.Operationalization",
-      "x": 156,
-      "y": 207
+      "x": 91,
+      "y": 383
     },
     {
       "id": "fe8af7d9-7760-471c-9857-6a05b3969385",
       "text": "Comunicação mTLS",
       "type": "nfr.Operationalization",
-      "x": 223,
-      "y": 110
+      "x": 257,
+      "y": 86
     },
     {
       "id": "4624d058-7c54-4747-ae87-7ef870b53691",
       "text": "Padronização HL7 FHIR",
       "type": "nfr.Operationalization",
-      "x": 827,
-      "y": 460
+      "x": 902,
+      "y": 552
     },
     {
       "id": "8098fc4f-9dd6-43a5-a35b-b62c411242af",
       "text": "Log Imutável via SHA-256",
       "type": "nfr.Operationalization",
-      "x": 893,
+      "x": 935,
       "y": 338
+    },
+    {
+      "id": "a333f0ab-01eb-4d00-94e7-78108d3fc660",
+      "text": "Acesso Público",
+      "type": "nfr.NFR",
+      "x": 1828,
+      "y": 61
+    },
+    {
+      "id": "413cf3b4-1077-41e5-a1e1-12a2f23513ce",
+      "text": "Navegação por conteúdo público",
+      "type": "nfr.Operationalization",
+      "x": 1879,
+      "y": 430
+    },
+    {
+      "id": "297a9954-87c5-46f7-8e66-991ad61d4677",
+      "text": "Bloqueio com redirecionamento textual",
+      "type": "nfr.Operationalization",
+      "x": 1996,
+      "y": 169
+    },
+    {
+      "id": "2ae1b4f7-bcd9-4f60-9a8f-91ae36c6ab93",
+      "text": "LGPD (Art. 7º/8º) exige consentimento explicito e termos destacados",
+      "type": "nfr.Claim",
+      "x": 1670,
+      "y": 120
+    },
+    {
+      "id": "af667400-fb20-43d6-8604-aeb8bbb3946f",
+      "text": "Sobrecarga de rede e processamento por criptografia ponta à ponta e mTLS",
+      "type": "nfr.Claim",
+      "x": 200,
+      "y": 174
+    },
+    {
+      "id": "5b02598b-21f6-43b7-96c0-d54b243a662b",
+      "text": "Acesso universal a campanhas e UBS dispensam identificação civil prévia",
+      "type": "nfr.Claim",
+      "x": 1997,
+      "y": 307
+    },
+    {
+      "id": "05dee5ee-64a7-433d-9a68-79dc8e649826",
+      "text": "Padrão nacional do RNDS/DATASUS exige interoperabilidade via HL7 FHIR",
+      "type": "nfr.Claim",
+      "x": 953,
+      "y": 426
     }
   ],
   "dependencies": [],
@@ -350,13 +399,6 @@
       "label": "– –"
     },
     {
-      "id": "c8044433-d1d9-4c51-8ed6-3e8e0afa14e0",
-      "type": "nfr.ContributionLink",
-      "source": "379e9eeb-d489-4292-9935-5b873301c39e",
-      "target": "716dc6e1-99f9-4d30-8070-80ce7ead217c",
-      "label": "– –"
-    },
-    {
       "id": "b076e7cf-6dbf-478a-a61a-e96b4dd95d6f",
       "type": "nfr.ContributionLink",
       "source": "5d01b56e-dcaf-4912-8e71-0ce0e1a1c5ea",
@@ -364,18 +406,80 @@
       "label": "–"
     },
     {
-      "id": "b2c0451e-7ba8-46a8-a744-33d3cd5f5068",
+      "id": "06bc04d2-f864-414e-8b4a-2f22d76ed7e2",
+      "type": "nfr.ContributionLink",
+      "source": "a333f0ab-01eb-4d00-94e7-78108d3fc660",
+      "target": "97a247be-8723-4b43-ad0e-8a4497ad609e",
+      "label": "++"
+    },
+    {
+      "id": "743a29e4-3ea6-4805-a38b-e5af2a8844fa",
+      "type": "nfr.ContributionLink",
+      "source": "413cf3b4-1077-41e5-a1e1-12a2f23513ce",
+      "target": "a333f0ab-01eb-4d00-94e7-78108d3fc660",
+      "label": "++"
+    },
+    {
+      "id": "22644665-7437-4b79-b46e-71a31fe61d57",
+      "type": "nfr.ContributionLink",
+      "source": "297a9954-87c5-46f7-8e66-991ad61d4677",
+      "target": "a333f0ab-01eb-4d00-94e7-78108d3fc660",
+      "label": "+"
+    },
+    {
+      "id": "a5f944f7-8f54-40f5-9a69-8b96929e9a98",
+      "type": "nfr.ContributionLink",
+      "source": "4caa2e07-5ebb-4158-af00-e62f93eb3a94",
+      "target": "a333f0ab-01eb-4d00-94e7-78108d3fc660",
+      "label": "–"
+    },
+    {
+      "id": "e33f85d3-2a3c-443a-8de3-bdf59c7a4d69",
+      "type": "nfr.ContributionLink",
+      "source": "38cc9ae0-7242-479e-8618-183aeb0b7f01",
+      "target": "97a247be-8723-4b43-ad0e-8a4497ad609e",
+      "label": "–"
+    },
+    {
+      "id": "e36812df-b2d9-4ab2-8f65-ec1bab54246a",
+      "type": "nfr.ArgumentLink",
+      "source": "2ae1b4f7-bcd9-4f60-9a8f-91ae36c6ab93"
+    },
+    {
+      "id": "9c44d245-df97-48a7-9355-ea2d1dc9b301",
+      "type": "nfr.ArgumentLink",
+      "source": "af667400-fb20-43d6-8604-aeb8bbb3946f"
+    },
+    {
+      "id": "05f294af-889d-477c-a7b0-a33f1bcc9168",
       "type": "nfr.ContributionLink",
       "source": "a9cc8eae-bb35-46de-8921-56fb3747dc76",
       "target": "716dc6e1-99f9-4d30-8070-80ce7ead217c",
       "label": "+"
     },
     {
-      "id": "56091976-be80-4125-a0b1-e959ad8d9824",
-      "type": "nfr.CorrelationLink",
-      "source": "38cc9ae0-7242-479e-8618-183aeb0b7f01",
-      "target": "97a247be-8723-4b43-ad0e-8a4497ad609e",
-      "label": "–"
+      "id": "c055b870-c250-4d3f-8c80-c7ffedbaa564",
+      "type": "nfr.ContributionLink",
+      "source": "379e9eeb-d489-4292-9935-5b873301c39e",
+      "target": "716dc6e1-99f9-4d30-8070-80ce7ead217c",
+      "label": "– –"
+    },
+    {
+      "id": "ee840ff3-61d5-4618-be46-5d13bcd62b18",
+      "type": "nfr.ArgumentLink",
+      "source": "af667400-fb20-43d6-8604-aeb8bbb3946f"
+    },
+    {
+      "id": "f682577c-a26e-42e7-a9ed-7fa7586af526",
+      "type": "nfr.ArgumentLink",
+      "source": "5b02598b-21f6-43b7-96c0-d54b243a662b",
+      "target": "743a29e4-3ea6-4805-a38b-e5af2a8844fa"
+    },
+    {
+      "id": "36c50107-f865-4ce0-9afc-94e8cbfb32b7",
+      "type": "nfr.ArgumentLink",
+      "source": "05dee5ee-64a7-433d-9a68-79dc8e649826",
+      "target": "8d0c93aa-9789-48c2-98a0-0e6ab76a045e"
     }
   ],
   "display": {
@@ -474,13 +578,41 @@
     "8098fc4f-9dd6-43a5-a35b-b62c411242af": {
       "width": 121.39422607421875,
       "height": 56.48773193359375
+    },
+    "a333f0ab-01eb-4d00-94e7-78108d3fc660": {
+      "width": 115.394775390625,
+      "height": 63.98609924316406
+    },
+    "413cf3b4-1077-41e5-a1e1-12a2f23513ce": {
+      "width": 126.393798828125,
+      "height": 82.48208618164062
+    },
+    "297a9954-87c5-46f7-8e66-991ad61d4677": {
+      "width": 156.3907470703125,
+      "height": 77.48316955566406
+    },
+    "2ae1b4f7-bcd9-4f60-9a8f-91ae36c6ab93": {
+      "width": 164.3900146484375,
+      "height": 76.9832763671875
+    },
+    "af667400-fb20-43d6-8604-aeb8bbb3946f": {
+      "width": 169.38958740234375,
+      "height": 74.98370361328125
+    },
+    "5b02598b-21f6-43b7-96c0-d54b243a662b": {
+      "width": 165.389892578125,
+      "height": 97.97848510742188
+    },
+    "05dee5ee-64a7-433d-9a68-79dc8e649826": {
+      "width": 148.39154052734375,
+      "height": 83.48187255859375
     }
   },
   "tool": "dsm3-goals",
   "metamodelVersion": "1.0",
-  "saveDate": "Fri, 28 Aug 2026 15:32:09 GMT",
+  "saveDate": "Fri, 28 Aug 2026 18:01:18 GMT",
   "diagram": {
-    "width": 2136,
+    "width": 3894,
     "height": 1300,
     "name": "Example NFR model",
     "customProperties": {
