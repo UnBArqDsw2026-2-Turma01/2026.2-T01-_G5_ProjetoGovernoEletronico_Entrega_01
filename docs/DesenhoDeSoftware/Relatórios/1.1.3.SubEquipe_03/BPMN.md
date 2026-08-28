@@ -9,6 +9,7 @@ Mira-se no MM no FOCO, com a entrega mínima.
 | ------------------------- |
 | Davi Ursulino de Oliveira |
 | Gabriel Mota Oliveira     |
+| Yasmim de Souza Santos    |
 
 ## Metodologia do Foco_02
 
@@ -135,11 +136,11 @@ A ausência de gateway no segundo diagrama reforça, por contraste, a razão de 
 
 ---
 
-| Nome do Membro                                               | Contribuição                                                                                                 | Data       |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ---------- |
-| [Gustavo Fornaciari](https://github.com/GUGOFO) | Criação do Repositorio | 17/08/2026 |
-| [Davi Ursulino de Oliveira](https://github.com/DaviUrsulino) | Engenharia Reversa dos fluxos "Rede de Saude" e "Conteudo" (Meu SUS Digital), modelagem BPMN dos dois fluxos | 26/08/2026 |
-| [Gabriel Mota Oliveira](https://github.com/Gabro-MO) | Correção dos fluxos BPMN e respectivos links (Foco_2) | 27/08/2026 |
-| [Yasmim de Souza Santos](https://github.com/eii-yahs)  | Criação do arquivo separado para o artefato produzido | 28/08/2026 |
-| [Gabriel Mota Oliveira](https://github.com/Gabro-MO)  | Adição explicação do BPMN, sua justificativa de uso e correção da hierarquia de titulos (Foco_2) | 28/08/2026 |
-| [Yasmim de Souza Santos](https://github.com/eii-yahs)  | Adiciona seção de simbologias do BPMN e seção de leitura dos dois BPMNs | 28/08/2026 |
+| Nome do Membro                                               | Contribuição                                                                                                 | Data       | Commit |
+| ------------------------------------------------------------ | ----------------------------------- | ---------- | ---- |
+| [Gustavo Fornaciari](https://github.com/GUGOFO) | Criação do Repositorio | 17/08/2026 | [bd89d73](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/bd89d539a01494091740097d678627ae40bea3b4) |
+| [Davi Ursulino de Oliveira](https://github.com/DaviUrsulino) | Engenharia Reversa dos fluxos "Rede de Saude" e "Conteudo" (Meu SUS Digital), modelagem BPMN dos dois fluxos | 26/08/2026 | [f4e8540](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/f4e8540c9eb604284530e6855e148f488ba541ff) |
+| [Gabriel Mota Oliveira](https://github.com/Gabro-MO) | Correção dos fluxos BPMN e respectivos links (Foco_2) | 27/08/2026 | [ff9d842](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/ff9d842a364e4902300704e3f84b94b944ab0a14) |
+| [Yasmim de Souza Santos](https://github.com/eii-yahs)  | Criação do arquivo separado para o artefato produzido | 28/08/2026 | [b3ff0bd](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/b3ff0bd607119ba03d1a7e0f335f0a59f35fe36d) |
+| [Gabriel Mota Oliveira](https://github.com/Gabro-MO)  | Adição explicação do BPMN, sua justificativa de uso e correção da hierarquia de titulos (Foco_2) | 28/08/2026 | [49c3d51](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/49c3d51d78f0463b9a73c9790aaceabf69b381ef) |
+| [Yasmim de Souza Santos](https://github.com/eii-yahs)  | Adiciona seção de simbologias do BPMN e seção de leitura dos dois BPMNs | 28/08/2026 | [c33abd1](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/c33abd12c3d41a7b3c0f7341756933836cc6436c) |

@@ -124,14 +124,14 @@ A estrutura de bolhas e relacionamentos foi mantida, e os "elos perdidos", repre
 
 ---
 
-| Nome do Membro | Contribuição  | Data       |
-| ------- | -------- | ---------- |
-| [Gustavo Fornaciari](https://github.com/GUGOFO) | Criação do Repositorio | 17/08/2026 |
-| [Yasmim de Souza Santos](https://github.com/eii-yahs)| Criação da Rich Picture (Foco_01)  | 26/08/2026 |
-| [Davi Ursulino de Oliveira](https://github.com/DaviUrsulino) | Revisão da Rich Picture (Foco_01): balão de preocupação sobre geolocalização e nota de fidelidade dos ícones de tela | 27/08/2026 |
-| [Yasmim de Souza Santos](https://github.com/eii-yahs)| Criação do arquivo separado para o artefato produzido | 28/08/2026 |
-| [Yasmim de Souza Santos](https://github.com/eii-yahs) | Adiciona metodologia e contextualização sobre o que é o artefato| 28/08/2026 |
-| [Davi Ursulino de Oliveira](https://github.com/DaviUrsulino) | Atualiza a Rich Picture com o balão de preocupação sobre geolocalização proposto na revisão | 28/08/2026 |
-| [Gabriel Mota Oliveira](https://github.com/Gabro-MO)| Adição da Versão 2 da Rich Picture juntamente com a descrição das mudanças e atualização das legendas                | 28/08/2026 |
-| [Gabriel Mota Oliveira](https://github.com/Gabro-MO)| Aumento do tamanho do usuário principal na Rich Picture V2 e correção da legenda                                     | 28/08/2026 |
-| [Yasmim de Souza Santos](https://github.com/eii-yahs)| Adiciona versionamento das Rich Pictures para melhor rastreabilidade | 28/08/2026 |
+| Nome do Membro | Contribuição  | Data       | Commit |
+| ------- | -------- | ---------- | ---- | 
+| [Gustavo Fornaciari](https://github.com/GUGOFO) | Criação do Repositorio | 17/08/2026 | [bd89d73](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/bd89d539a01494091740097d678627ae40bea3b4) | 
+| [Yasmim de Souza Santos](https://github.com/eii-yahs)| Criação da Rich Picture (Foco_01)  | 26/08/2026 | [15a0bd4](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/15a0bd48098080d4ccb30ff62adddb7065d30900#diff-150f62565e3799f0fc9eb794bca536c4d4c1c9f30c99a9944c4a3d03c25ae62a) |
+| [Davi Ursulino de Oliveira](https://github.com/DaviUrsulino) | Revisão da Rich Picture (Foco_01): balão de preocupação sobre geolocalização e nota de fidelidade dos ícones de tela | 27/08/2026 | [ab4ecfe](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/ab4ecfeb5fabbcb751118cbc5e6853c8adb0b089) |
+| [Yasmim de Souza Santos](https://github.com/eii-yahs)| Criação do arquivo separado para o artefato produzido | 28/08/2026 | [b3ff0bd](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/b3ff0bd607119ba03d1a7e0f335f0a59f35fe36d) |
+| [Yasmim de Souza Santos](https://github.com/eii-yahs) | Adiciona metodologia e contextualização sobre o que é o artefato| 28/08/2026 | [46d8228](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/46d822878e6eb6785ee8a3d1a1d4ee72dee9ee5f) |
+| [Davi Ursulino de Oliveira](https://github.com/DaviUrsulino) | Atualiza a Rich Picture com o balão de preocupação sobre geolocalização proposto na revisão | 28/08/2026 | [5926d56](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/5926d565ca8d294c770681451b0bc1a7be7fcd4d) |
+| [Gabriel Mota Oliveira](https://github.com/Gabro-MO)| Adição da Versão 2 da Rich Picture juntamente com a descrição das mudanças e atualização das legendas                | 28/08/2026 | [c336fef](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/c336fef6be8eadff44b53fba01e699a89bb5c7f8) |
+| [Gabriel Mota Oliveira](https://github.com/Gabro-MO)| Aumento do tamanho do usuário principal na Rich Picture V2 e correção da legenda | 28/08/2026 | [09c2cca](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/09c2ccaf596e22c9cb93ffb0a5127d190fe5899a) |
+| [Yasmim de Souza Santos](https://github.com/eii-yahs)| Adiciona versionamento das Rich Pictures para melhor rastreabilidade | 28/08/2026 | [b29c79a](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/b29c79ab49c998a204de44370e2e89710192e7a2) |
