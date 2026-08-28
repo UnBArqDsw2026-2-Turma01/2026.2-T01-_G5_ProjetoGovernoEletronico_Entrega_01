@@ -100,4 +100,4 @@ Arquivo editável: [Rich Picture Usabilidade](https://canva.link/5nzidpjb7mkkt9k
 | [Davi Ursulino de Oliveira](https://github.com/DaviUrsulino) | Revisão da Rich Picture (Foco_01): balão de preocupação sobre geolocalização e nota de fidelidade dos ícones de tela                                                  | 27/08/2026 |
 | [Yasmim de Souza Santos](https://github.com/eii-yahs) | Criação do arquivo separado para o artefato produzido | 28/08/2026 |
 | [Yasmim de Souza Santos](https://github.com/eii-yahs) | Adiciona metodologia e contextualização sobre o que é o artefato | 28/08/2026 |
-| [Yasmim de Souza Santos](https://github.com/eii-yahs) | Atualiza a Rich Picture com o balão de preocupação sobre geolocalização proposto na revisão | 28/08/2026 |
+| [Davi Ursulino de Oliveira](https://github.com/DaviUrsulino) | Atualiza a Rich Picture com o balão de preocupação sobre geolocalização proposto na revisão | 28/08/2026 |
