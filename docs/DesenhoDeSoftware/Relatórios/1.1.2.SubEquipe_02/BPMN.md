@@ -13,11 +13,17 @@ O modelo em si, com a leitura de cada fluxo do sistema, está no relatório da s
 
 ## Metodologia
 
-### Por que Engenharia Reversa comportamental
+### Abordagem escolhida
 
 O Meu SUS Digital é um sistema de governo em produção: não há código-fonte publicado, documentação de arquitetura ou manual técnico disponíveis. Isso descarta a análise estática e deixa como caminho viável a **análise comportamental (caixa-preta)**, em que o sistema é observado de fora, pelo que ele apresenta ao usuário, e o processo é reconstruído a partir desse comportamento.
 
 O objetivo, seguindo a taxonomia de Chikofsky e Cross (1990), foi **elevar o nível de abstração**: sair das telas concretas (baixo nível) e chegar a um modelo de processo (alto nível) que descreva o que o sistema faz, independentemente de como as telas estão organizadas.
+
+### Ferramenta
+
+O modelo foi desenhado no [HEFLO](https://www.heflo.com/), escolhido por dar suporte nativo aos elementos de BPMN 2.0 necessários ao modelo, piscinas e raias, fluxo de mensagem entre piscinas, gateways exclusivos, eventos intermediários de mensagem, eventos de borda de erro, subprocessos colapsados com página própria e depósito de dados, sem precisar improvisar formas genéricas, como aconteceria em uma ferramenta de desenho livre.
+
+## Processo de Engenharia Reversa Aplicado
 
 ### Etapas do trabalho
 
@@ -30,9 +36,9 @@ O objetivo, seguindo a taxonomia de Chikofsky e Cross (1990), foi **elevar o ní
 | 5. Decomposição | Os dois grandes ramos da home (`Minha saúde` e `Mini apps`) foram extraídos como subprocessos em páginas próprias | Manter o diagrama principal legível: o processo principal mostra a estrutura, os subprocessos mostram o detalhe |
 | 6. Revisão da notação | Conferência do modelo contra a especificação BPMN 2.0 e os exemplos da disciplina | Correções de notação aplicadas na v2 (ver histórico abaixo) |
 
-### Ferramenta
+## Modelagem BPMN
 
-O modelo foi desenhado no [HEFLO](https://www.heflo.com/), escolhido por dar suporte nativo aos elementos de BPMN 2.0 necessários ao modelo, piscinas e raias, fluxo de mensagem entre piscinas, gateways exclusivos, eventos intermediários de mensagem, eventos de borda de erro, subprocessos colapsados com página própria e depósito de dados, sem precisar improvisar formas genéricas, como aconteceria em uma ferramenta de desenho livre.
+Os três diagramas produzidos, com a leitura do que cada fluxo revela sobre o Meu SUS Digital, estão no relatório da subequipe: [1.1.2. SubEquipe_02](/DesenhoDeSoftware/Relatórios/1.1.2.SubEquipe_02.md). As versões do artefato estão no histórico ao final desta página.
 
 ### Decisões de notação
 
@@ -44,7 +50,7 @@ O modelo foi desenhado no [HEFLO](https://www.heflo.com/), escolhido por dar sup
 | Subprocessos colapsados em vez de um único diagrama | Decomposição hierárquica prevista na BPMN 2.0, usada para preservar a legibilidade do processo principal. |
 | Caminhos de exceção modelados explicitamente | Um modelo só com o caminho feliz esconderia comportamentos reais do sistema (falha da RNDS, categoria sem registros). |
 
-### Embasamento teórico
+## Embasamento teórico para criação
 
 1. CHIKOFSKY, Elliot J.; CROSS, James H. Reverse engineering and design recovery: a taxonomy. *IEEE Software*, Los Alamitos, v. 7, n. 1, p. 13-17, jan. 1990. (Define Engenharia Reversa como o processo de analisar um sistema para identificar seus componentes e criar representações em um nível mais alto de abstração.)
 2. OBJECT MANAGEMENT GROUP (OMG). *Business Process Model and Notation (BPMN), Version 2.0*. Needham: OMG, 2011. Disponível em: https://www.omg.org/spec/BPMN/2.0/.
