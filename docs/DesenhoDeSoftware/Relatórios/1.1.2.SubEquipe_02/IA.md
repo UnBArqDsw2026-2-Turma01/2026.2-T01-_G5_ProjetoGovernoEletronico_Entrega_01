@@ -1,1 +1,5 @@
 # IA generativa
+
+| Integrante | O que aprendi | Uso de IA Generativa |
+| --- | --- | --- |
+| Ana Beatriz | Durante a criação do Rich Picture, aprendi a observar o sistema de uma forma mais ampla, pensando nas relações entre os atores, nos fluxos e nas dificuldades que aparecem durante o atendimento. No início, tive dúvidas sobre quais elementos eram importantes e como representar cada relação, principalmente por meio das setas e da sequência do fluxo. Ao revisar o desenho e receber os feedbacks da equipe, fui percebendo como essas escolhas influenciam a forma como o contexto é compreendido. | Usei IA Generativa para tirar dúvidas durante a construção do Rich Picture, principalmente sobre a representação dos elementos, relações e fluxos. Também utilizei a ferramenta para discutir algumas possibilidades para o desenho e organizar partes da documentação. As sugestões serviram como apoio, mas foram revisadas e adaptadas de acordo com as decisões da equipe e com o contexto do projeto. |
