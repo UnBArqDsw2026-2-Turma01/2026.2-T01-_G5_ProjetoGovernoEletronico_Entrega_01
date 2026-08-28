@@ -26,7 +26,7 @@
         - [NFR](/DesenhoDeSoftware/Relatórios/1.1.1.SubEquipe_01/1.1.1.2.NFR.md)
         - [BPMN](/DesenhoDeSoftware/Relatórios/1.1.1.SubEquipe_01/1.1.1.3.BPMN.md)
         - [IA Generativa](/DesenhoDeSoftware/Relatórios/1.1.1.SubEquipe_01/1.1.1.4.IAGenerativa.md)
-      - [1.1.2. SubEquipe_02](/DesenhoDeSoftware/Relatórios/1.1.2.SubEquipe_02.md)
+      - 1.1.2. SubEquipe_02
         - [Artefatos Generalistas](/DesenhoDeSoftware/Relatórios/1.1.2.SubEquipe_02/RichPicture.md)
         - [NFR](/DesenhoDeSoftware/Relatórios/1.1.2.SubEquipe_02/SIG.md)
         - [BPMN](/DesenhoDeSoftware/Relatórios/1.1.2.SubEquipe_02/BPMN.md)
