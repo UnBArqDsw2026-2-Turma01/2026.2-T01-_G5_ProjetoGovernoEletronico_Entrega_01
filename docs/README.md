@@ -19,24 +19,35 @@
 | 222021826 | [Victor Leandro Rocha de Assis](https://github.com/Afrontoso) | Subgrupo 2 |
 
 ## Sobre 
-Contextualize, usando referências, links, e outros materiais como fontes.
+
+Este projeto foi desenvolvido para a disciplina **Arquitetura e Desenho de Software**, ministrada pela professora **Milene Serrano**.
+O projeto foi orientado ao site [**Meu SUS Digital**](https://meususdigital.saude.gov.br/login).
 
 ## Screenshots da Primeira Entrega
-Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
+
+<div align="center">
+
+![Rich Picture SubEquipe1](./DesenhoDeSoftware/Relatórios/assets/subequipe01-fluxos/RichPicture/RichPicture-versao1.4.jpg)  
+*Figura: Rich picture SubEquipe 1*
+
+![NRF SubEquipe 3](./DesenhoDeSoftware/Relatórios/assets/subequipe03-fluxos/SIG/SIG_Usabilidade_V3.drawio.png)  
+*Figura: NRF SubEquipe 3*
+
+![BPMN SubEquipe 2](./DesenhoDeSoftware/Relatórios/assets/subequipe02-fluxos/BPMN/bpmn-meu-sus-digital-principal.png)  
+*Figura: BPMN SubEquipe 2*
+
+</div>
+
 
 ## Há algo a ser executado?
 
 ( ) SIM
 
-( ) NÃO
-
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
-
-## Informações Complementares 
-Quaisquer outras informações adicionais podem ser descritas nessa seção.
+(X) NÃO
 
 ---
 
 | Nome do Membro | Contribuição | Data |
 | -- | -- | -- |
 | [Gustavo Fornaciari](https://github.com/GUGOFO) | Criação do Repositorio | 17/08/2026 |
+| [Ana Beatriz](https://github.com/AnnaBeatrizAraujo) | Customização da Pagina | 28/08/2026 |
