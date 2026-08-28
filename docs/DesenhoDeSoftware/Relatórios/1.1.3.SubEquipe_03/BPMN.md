@@ -87,4 +87,4 @@ Arquivo editável: [conteudo.drawio](https://viewer.diagrams.net/?tags=%7B%7D&li
 | [Davi Ursulino de Oliveira](https://github.com/DaviUrsulino) | Engenharia Reversa dos fluxos "Rede de Saude" e "Conteudo" (Meu SUS Digital), modelagem BPMN dos dois fluxos | 26/08/2026 |
 | [Gabriel Mota Oliveira](https://github.com/Gabro-MO)         | Correção dos fluxos BPMN e respectivos links (Foco_2)                                                        | 27/08/2026 |
 | [Yasmim de Souza Santos](https://github.com/eii-yahs)        | Criação do arquivo separado para o artefato produzido                                                        | 28/08/2026 |
-| [Gabriel Mota Oliveira](https://github.com/Gabro-MO)         | Adição explicação do BPMN, sua justificativa de uso e correção da hierarquia de titulos (Foco_2)             | 27/08/2026 |
+| [Gabriel Mota Oliveira](https://github.com/Gabro-MO)         | Adição explicação do BPMN, sua justificativa de uso e correção da hierarquia de titulos (Foco_2)             | 28/08/2026 |
