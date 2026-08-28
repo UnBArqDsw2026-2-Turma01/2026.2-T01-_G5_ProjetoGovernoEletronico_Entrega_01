@@ -10,6 +10,7 @@
     - [Atas Grupo](/Projeto/Atas/AtasGerais/README.md)
       - [Ata - 20 de agosto](/Projeto/Atas/AtasGerais/Ata-20-08.md)
       - [Ata - 24 de agosto](/Projeto/Atas/AtasGerais/Ata-24-08.md)
+      - [Ata - 27 de agosto](/Projeto/Atas/AtasGerais/Ata-27-08.md)
     - [Atas SubEquipe 1](/Projeto/Atas/AtasSub1/README.md)
       - [Ata - 25 de agosto](/Projeto/Atas/AtasSub1/Ata-25-08.md)
     - [Atas SubEquipe 2](/Projeto/Atas/AtasSub2/README.md)
