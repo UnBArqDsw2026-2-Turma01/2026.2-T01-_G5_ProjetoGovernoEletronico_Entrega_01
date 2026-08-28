@@ -89,4 +89,4 @@ Gráfico de Interdependência de Softgoals (SIG) construído na notação do NFR
 | :--- | :--- | :--- |
 | [Gustavo Fornaciari](https://github.com/GUGOFO) | Adicionando SIG versão 1 | 27/08/2026 |
 | [Gustavo Fornaciari](https://github.com/GUGOFO) | Adicionar primeira versão a nova pagina| 27/08/2026 |
-| [Gustavo Fornaciari](https://github.com/GUGOFO) | Adicionar contribuicoes da Ana e Victor para V2| 28/08/2026 |
+| [Gustavo Fornaciari](https://github.com/GUGOFO), [Victor Leandro](https://github.com/Afrontoso) e [Ana Beatriz](https://github.com/AnnaBeatrizAraujo) | Adicionar contribuicoes da Ana e Victor para V2| 28/08/2026 |

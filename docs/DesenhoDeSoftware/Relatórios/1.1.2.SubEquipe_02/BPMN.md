@@ -109,4 +109,4 @@ Os três diagramas produzidos, com a leitura do que cada fluxo revela sobre o Me
 | Nome do Membro | Contribuição | Data |
 | :--- | :--- | :--- |
 | [Victor Leandro](https://github.com/Afrontoso) | Primeira versao do BPMN | 27/08/2026 |
-| [Victor Leandro](https://github.com/Afrontoso) | Segunda versão do BPMN: subprocessos, caminhos de exceção, ciclo de avaliação e correções de notação | 28/08/2026 |
+| [Victor Leandro](https://github.com/Afrontoso), [Ana Beatriz](https://github.com/AnnaBeatrizAraujo) e [Gustavo Fornaciari](https://github.com/GUGOFO) | Segunda versão do BPMN: subprocessos, caminhos de exceção, ciclo de avaliação e correções de notação | 28/08/2026 |

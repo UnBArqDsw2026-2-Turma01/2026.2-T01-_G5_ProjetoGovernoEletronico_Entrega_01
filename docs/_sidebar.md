@@ -19,7 +19,7 @@
       - [Ata - 25 de agosto](/Projeto/Atas/AtasSub3/Ata-25-08.md)
     - [Modelo de ata](/Projeto/Atas/Ata-Modelo.md)
 
-- [**1. Desenho de Software (Base)**](/DesenhoDeSoftware/1.Base.md)
+- **1. Desenho de Software (Base)**
   - 1.1 Relatórios
       - 1.1.1. SubEquipe_01
         - [Artefatos Generalistas](/DesenhoDeSoftware/Relatórios/1.1.1.SubEquipe_01/1.1.1.1.Artefatos%20Generalistas.md)

@@ -83,4 +83,4 @@ O trabalho foi realizado em conjunto pela equipe, com discussões sobre quais el
 | Nome do Membro | Contribuição | Data |
 | :--- | :--- | :--- |
 | [Ana Beatriz](https://github.com/AnnaBeatrizAraujo) | Adicionando o Rich Picture e a legenda | 27/08/2026 |
-| [Ana Beatriz](https://github.com/AnnaBeatrizAraujo) | Adicionando segunda versão do Rich Picture | 27/08/2026 |
+| [Ana Beatriz](https://github.com/AnnaBeatrizAraujo), [Gustavo Fornaciari](https://github.com/GUGOFO) e [Victor Leandro](https://github.com/Afrontoso) | Adicionando segunda versão do Rich Picture | 27/08/2026 |
