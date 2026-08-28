@@ -28,8 +28,8 @@ Espaço para contar um pouco sobre como ocorreu o trabalho em equipe. Vídeos aj
 
 Passo a passo reconstruído via engenharia reversa:
 
-| #   | Tela                                               | Print                                                                                                |
-| --- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| #   | Tela                                               | Print                                                                                                   |
+| --- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | 1   | Home (deslogado)                                   | ![Home deslogado](../assets/subequipe03-fluxos/compartilhado/01-home-deslogado.png)                     |
 | 2   | Login Gov.br                                       | ![Login Gov.br](../assets/subequipe03-fluxos/compartilhado/02-login-govbr.png)                          |
 | 3   | Home (logado)                                      | ![Home logado](../assets/subequipe03-fluxos/compartilhado/03-home-logado.png)                           |
@@ -38,20 +38,30 @@ Passo a passo reconstruído via engenharia reversa:
 
 Nesse ponto o usuário tem 2 opções: ver os **Detalhes** da unidade (endereço e serviços) ou **Ver no mapa** (abre rota no Google Maps).
 
-#### Fluxo 2 - Conteudo
+### Fluxo 2 - Conteudo
 
 Passo a passo reconstruído via engenharia reversa (compartilha os passos 1-3 acima):
 
-| #   | Tela | Print  |
-| --- | ----- | ----- |
+| #   | Tela                                                              | Print                                                                                 |
+| --- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | 4   | Lista de artigos em "Conteudos"                                   | ![Lista de artigos](../assets/subequipe03-fluxos/fluxo-conteudo/01-lista-artigos.png) |
 | 5   | Artigo aberto (ex: Coronavirus), com opcao de curtir/compartilhar | ![Artigo aberto](../assets/subequipe03-fluxos/fluxo-conteudo/02-artigo-detalhe.png)   |
 
 ## Modelagem BPMN
 
-Modelos elaborados seguindo a notação BPMN apresentada em aula (piscina, raia, eventos de início/fim, atividades nomeadas com verbo no infinitivo, gateway exclusivo para pontos de decisão). Fonte editável (`.drawio`, importável em [app.diagrams.net](https://app.diagrams.net/)) disponível junto de cada imagem.
+### O que é o BPMN
 
-## BPMN - Fluxo Rede de Saude
+BPMN (Business Process Model and Notation) é uma notação gráfica utilizada para representar e modelar processos de forma padronizada, descrevendo como as atividades de um processo são organizadas, executadas e relacionadas entre si. Enquanto uma descrição textual apresenta o processo de maneira sequencial, a BPMN permite visualizar explicitamente elementos como eventos, atividades, decisões, participantes e seus respectivos fluxos, facilitando a compreensão do comportamento de um sistema ou processo. A especificação BPMN 2.0 da Object Management Group (OMG, 2011) define esses elementos e suas regras de representação. Dessa forma, a BPMN funciona como uma linguagem comum para analisar e comunicar processos, tornando sua estrutura, responsabilidades e diferentes caminhos mais claros e sistemáticos.
+
+Para mais informações sobre: [Guia BPNM](../../../Projeto/GuiaBPMN.md)
+
+### Porque usar o BPMN
+
+A utilização da análise de fluxo em BPMN nos fluxos abaixo foi escolhida por permitir representar, de forma padronizada e visual, a sequência de atividades, os eventos que iniciam e encerram os processos, as responsabilidades dos participantes e os pontos de decisão existentes no sistema. Conforme a especificação BPMN 2.0 da OMG (2011), esses elementos possibilitam estruturar processos de negócio de maneira compreensível e sistemática. Além disso, Serrano et al. (2026) destaca o uso de piscinas, raias, atividades nomeadas com verbos no infinitivo e gateways com perguntas explícitas para representar responsabilidades e decisões no fluxo. Assim, a BPMN possibilita evidenciar, nos dois processos analisados, o encadeamento das ações e, no caso da Rede de Saúde, as diferentes alternativas disponíveis ao usuário, tornando os fluxos mais claros e passíveis de análise.
+
+### BPMN - Fluxo Rede de Saude
+
+Fonte editável (`.drawio`, importável em [app.diagrams.net](https://app.diagrams.net/)) disponível junto de cada imagem.
 
 ![BPMN Rede de Saude](../assets/subequipe03-fluxos/fluxo-rede-de-saude/bpmn-rede-de-saude.drawio.svg)
 
@@ -63,7 +73,7 @@ Arquivo editável: [rede-de-saude.drawio](https://viewer.diagrams.net/?tags=%7B%
 
 Arquivo editável: [conteudo.drawio](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&dark=auto#R%3Cmxfile%3E%3Cdiagram%20name%3D%22Fluxo%20-%20Conteudo%22%20id%3D%22conteudo%22%3E1ZhNc5swEIZ%2FjSftoR0jASHHhnz00Jw8mR47MqxBU8EyQthOfn0lkAMUkrYBe9yLLV6tFvbZRSwsaJjt7yUr0geMQSzIMt4v6M2CEOo6RP8Z5alRvEvaCInkcSM5rbDiz2DFpVUrHkPZM1SIQvGiL0aY5xCpnsakxF3fbIOif9aCJTAQVhETQ%2FU7j1VqVbJcthNfgSepPTXx7UTGDsZWKFMW464j0dsFDSWiakbZPgRh4B24NOvuXpl9uTAJufqbBYXGNlxj3ZTq6RBxueOZYLk%2Buk5R8mfMFRN6aqmFXcoVrAoWGdudzrgxUpmZdvSwVEwqm0Nq7BvnWyYq63xBfKHPfB3zrR4mZvgAlbZZPa707w1PuDmbtdLBdAytM5AK9p2Lt9HeA2ag5JM2STv5cK4s%2Fl0ne45nRevnE3EP%2BWS2XpIXdy1SPbBUxwkbaj%2BqsmKS45B0y%2F9UsB%2B7lzILN9LnRmeAVocxpDVk2aGmPej7H%2F7MaMOFCFGgrNfR2IMgdmt2En9CZyYga%2Br74xX7DnruEJ7bR3eoQLstXnrTSaqRLeFNjBKrPIbYsvpHlAyCTTSG0o8CWG%2FGUN6xZ5BaEpjwvN6zM%2F17j9vPa%2FkuzP5Ijf52a7%2BUrAXtzwGanDnoFQiIOObM0L4I9aYCVYzlhT7K0TybIDd7rmAKJBPHQk%2BX3vzo6f%2BEvsrqLkTxxFD%2FYPB%2B0YMQpTbYclmVH48F372i88N3zxz%2Bt3p7waYdrGvedJ7YScJxYPsBmR%2B2d%2Baww0ozrXlXzV5eGMgiZYcctIWPRX1LiKNVe3DpzJ4AyOMTtSWbIIJolP468FzvlUb6KG2Js%2FTnb0zAJgfiwbvWm2SxktGhT267xC5w7XBlD1GqFBNTZbet2oXerNZ%2BElDdhmmITIJ%2BMvJt%2F1onASCTAajhi9rU6MmpoqfToyezR09PFb07PXo6e%2FTuqaL3pkfvzh69d6ro%2FenRe3NHb59r84evD9uvWfVc55sgvf0F%3C%2Fdiagram%3E%3C%2Fmxfile%3E)
 
-### Embasamento teórico para criação:
+## Embasamento teórico para criação:
 
 1. CHIKOFSKY, Elliot J.; CROSS, James H. Reverse engineering and design recovery: a taxonomy. IEEE Software, Los Alamitos, v. 7, n. 1, p. 13-17, jan. 1990. (Trabalho seminal que define Engenharia Reversa como "o processo de análise de um sistema para identificar seus componentes e as relações entre eles, e criar representações do sistema em outra forma ou em um nível mais alto de abstração", base da definição de Rosana Braga citada acima.)
 2. OBJECT MANAGEMENT GROUP (OMG). Business Process Model and Notation (BPMN), Version 2.0. Needham: OMG, 2011. Disponível em: https://www.omg.org/spec/BPMN/2.0/. (Especificação oficial da notação BPMN, definindo os elementos de piscina, raia, evento, atividade e gateway utilizados na modelagem.)
@@ -71,9 +81,10 @@ Arquivo editável: [conteudo.drawio](https://viewer.diagrams.net/?tags=%7B%7D&li
 
 ---
 
-| Nome do Membro  | Contribuição   | Data  |
-| ---- | ------ | ----- |
-| [Gustavo Fornaciari](https://github.com/GUGOFO)              | Criação do Repositorio                                                                                                                                                | 17/08/2026 |
+| Nome do Membro                                               | Contribuição                                                                                                 | Data       |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ---------- |
+| [Gustavo Fornaciari](https://github.com/GUGOFO)              | Criação do Repositorio                                                                                       | 17/08/2026 |
 | [Davi Ursulino de Oliveira](https://github.com/DaviUrsulino) | Engenharia Reversa dos fluxos "Rede de Saude" e "Conteudo" (Meu SUS Digital), modelagem BPMN dos dois fluxos | 26/08/2026 |
-| [Gabriel Mota Oliveira](https://github.com/Gabro-MO)         | Correção dos fluxos BPMN e respectivos links (Foco_2)                        | 27/08/2026 |
-| [Yasmim de Souza Santos](https://github.com/eii-yahs) | Criação do arquivo separado para o artefato produzido | 28/08/2026 |
+| [Gabriel Mota Oliveira](https://github.com/Gabro-MO)         | Correção dos fluxos BPMN e respectivos links (Foco_2)                                                        | 27/08/2026 |
+| [Yasmim de Souza Santos](https://github.com/eii-yahs)        | Criação do arquivo separado para o artefato produzido                                                        | 28/08/2026 |
+| [Gabriel Mota Oliveira](https://github.com/Gabro-MO)         | Adição explicação do BPMN, sua justificativa de uso e correção da hierarquia de titulos (Foco_2)             | 27/08/2026 |
