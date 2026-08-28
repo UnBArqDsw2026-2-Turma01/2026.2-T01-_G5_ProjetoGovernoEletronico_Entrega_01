@@ -9,7 +9,29 @@
 
 ## Metodologia do Foco_01
 
-Espaço para contar um pouco sobre como ocorreu o trabalho em equipe. Vídeos ajudam aqui.
+O trabalho foi dividido em duas etapas principais: criação e revisão.
+
+Na etapa de criação, com base no fluxo de busca por uma rede de saúde já levantado na fase de Engenharia Reversa (do login via gov.br até a obtenção de rotas no Google Maps), Yasmim de Souza Santos elaborou a primeira versão do rich picture na ferramenta Canva. As 15 interações identificadas foram representadas por meio de setas numeradas, e um usuário idoso foi escolhido como personagem central para evidenciar barreiras de usabilidade associadas a um perfil de baixo letramento digital.
+
+Na etapa de revisão, Davi Ursulino de Oliveira analisou o artefato de forma crítica e propôs dois ajustes: a inclusão de um novo balão de preocupação sobre a falta de transparência na solicitação de geolocalização, e uma nota apontando que os ícones genéricos usados nas etapas 7 a 11 não refletiam fielmente a interface real do sistema, apontamento que já orienta a próxima iteração do artefato.
+
+Essa dinâmica de criação individual seguida de revisão colaborativa assíncrona está registrada, com as respectivas datas, na tabela de contribuições ao final deste documento.
+
+## O que é uma Rich Picture
+
+Rich picture (ou "imagem rica") é uma técnica de representação informal, originada na Soft Systems Methodology (SSM) de Peter Checkland, usada para retratar de forma visual e holística uma situação-problema antes de qualquer tentativa de solução técnica. Diferente de fluxogramas ou diagramas UML, ela não segue uma notação formal: combina desenhos, ícones, setas e balões de fala/pensamento para capturar não só o processo (o que acontece, em que ordem), mas também os atores envolvidos, o ambiente em que atuam e — principalmente — as preocupações, conflitos e percepções subjetivas que cada um tem sobre a situação.
+
+Essa liberdade de notação é proposital: o objetivo não é documentar um sistema com precisão técnica, mas construir um entendimento compartilhado sobre um contexto complexo, incluindo aspectos "soft" (humanos, sociais, emocionais) que dificilmente apareceriam em um diagrama estruturado.
+
+Elementos comuns a uma rich picture:
+
+- **Atores:** bonecos ou ícones de pessoas representando quem participa da situação;
+- **Setas:** indicam fluxos, comunicação ou sequência de ações entre os atores e o sistema;
+- **Balões de fala/pensamento (nuvens):** expressam preocupações, dúvidas ou sentimentos — os chamados *concerns*;
+- **Ícones e desenhos simples:** substituem caixas e formas geométricas padronizadas, tornando o artefato mais próximo de um esboço do que de um diagrama técnico;
+- **Ausência de sintaxe fixa:** o mesmo elemento pode ser desenhado de formas diferentes por autores diferentes, desde que o significado fique claro para quem lê.
+
+Neste artefato, a técnica foi usada para representar o fluxo de busca por uma rede de saúde no Meu SUS Digital sob a ótica de um usuário idoso, evidenciando — por meio dos balões de pensamento, os pontos de fricção de usabilidade percebidos em cada etapa, algo que um fluxograma tradicional, focado apenas na sequência de telas, não capturaria. As referências teóricas utilizadas na construção estão detalhadas na seção "Embasamento teórico para criação", ao final deste documento.
 
 ## Rich Picture
 
@@ -47,12 +69,12 @@ Arquivo editável: [Rich Picture Usabilidade](https://canva.link/5nzidpjb7mkkt9k
 
 #### Preocupações de usabilidade (balões de pensamento)
 
-| Preocupação                                                                                    | Onde aparece                                               | Problema de usabilidade evidenciado                                                                                                                                                                                 |
-| ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| _"Esqueci minha senha do Gov.br, travei aqui de novo"_                                         | Etapa 3 (login)                                            | Falta de prevenção/recuperação de erro; barreira de autenticação para usuários com baixo letramento digital                                                                                                         |
-| _"Preciso de ajuda AGORA, por que tem tanto passo antes de eu achar o hospital mais próximo?"_ | Etapa 2 (pós-login)                                        | Baixa eficiência do fluxo em cenários de urgência; excesso de passos para uma tarefa crítica                                                                                                                        |
-| _"Não entendo esses ícones, a letra é muito pequena"_                                          | Etapas 7-8 (seleção de atendimento/localização)            | Falta de reconhecimento visual e legibilidade inadequada para público idoso                                                                                                                                         |
-| _"Por que ele quer saber onde eu estou?"_                                                      | Etapas 8-9 (solicitação/concessão de acesso à localização) | Falta de transparência sobre o motivo da solicitação de dado sensível (geolocalização); gera desconfiança de privacidade em usuários com baixo letramento digital _(adição: Davi Ursulino de Oliveira, 26/08/2026)_ |
+| Preocupação  | Onde aparece   | Problema de usabilidade evidenciado |
+| ----- | --------- | ------ |
+| _"Esqueci minha senha do Gov.br, travei aqui de novo"_ | Etapa 3 (login) | Falta de prevenção/recuperação de erro; barreira de autenticação para usuários com baixo letramento digital|
+| _"Preciso de ajuda AGORA, por que tem tanto passo antes de eu achar o hospital mais próximo?"_ | Etapa 2 (pós-login)  | Baixa eficiência do fluxo em cenários de urgência; excesso de passos para uma tarefa crítica   |
+| _"Não entendo esses ícones, a letra é muito pequena"_   | Etapas 7-8 (seleção de atendimento/localização)  | Falta de reconhecimento visual e legibilidade inadequada para público idoso  |
+| _"Por que ele quer saber onde eu estou?"_   | Etapas 8-9 (solicitação/concessão de acesso à localização) | Falta de transparência sobre o motivo da solicitação de dado sensível (geolocalização); gera desconfiança de privacidade em usuários com baixo letramento digital _(adição: Davi Ursulino de Oliveira, 26/08/2026)_ |
 
 #### Elementos gráficos e seu significado
 
@@ -79,3 +101,4 @@ Arquivo editável: [Rich Picture Usabilidade](https://canva.link/5nzidpjb7mkkt9k
 | [Yasmim de Souza Santos](https://github.com/eii-yahs) | Criação da Rich Picture (Foco_01) | 26/08/2026 |
 | [Davi Ursulino de Oliveira](https://github.com/DaviUrsulino) | Revisão da Rich Picture (Foco_01): balão de preocupação sobre geolocalização e nota de fidelidade dos ícones de tela                                                  | 27/08/2026 |
 | [Yasmim de Souza Santos](https://github.com/eii-yahs) | Criação do arquivo separado para o artefato produzido | 28/08/2026 |
+| [Yasmim de Souza Santos](https://github.com/eii-yahs) | Adiciona metodologia e contextualização sobre o que é o artefato | 28/08/2026 |
