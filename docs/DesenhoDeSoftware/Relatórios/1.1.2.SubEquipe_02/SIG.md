@@ -2,6 +2,8 @@
 
 Nesta seção, apresenta-se a versão finalizada do **Softgoal Interdependency Graph (SIG)** utilizando a notação do **NFR Framework** para a avaliação dos requisitos não-funcionais do sistema.
 
+![SIG na notação do NFR Framework](../assets/subequipe02-fluxos/SIG/SegundaVersaoSigSub2.drawio.png)
+
 ### Legenda e Tipos de Elementos do SIG
 
 - **Softgoals de Requisito (Nuvem de Borda Fina):** Objetivos de qualidade

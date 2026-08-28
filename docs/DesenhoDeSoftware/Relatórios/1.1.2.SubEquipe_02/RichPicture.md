@@ -41,12 +41,12 @@ Nesta seção, apresenta-se a versão finalizada do **Rich Picture**, que ilustr
 
 ---
 
-### Participantes no Foco_01
+### Participantes
 | Nome do Membro |
 | :--- |
 | [Ana Beatriz](https://github.com/AnnaBeatrizAraujo) |
 
-### Metodologia do Foco_01
+### Metodologia
 
 O trabalho foi realizado em conjunto pela equipe, com discussões sobre quais elementos e relações deveriam aparecer na Rich Picture. A partir dessas discussões, foi criada uma primeira versão do desenho. Depois, a equipe revisou a representação e recebeu feedback sobre a organização dos elementos, os fluxos e a clareza das relações apresentadas. Esses feedbacks ajudaram a identificar alguns pontos que precisavam ser ajustados. A partir dessas observações, foram feitas alterações no desenho até chegar à versão final apresentada no relatório. A validação foi feita principalmente por meio da revisão e discussão da representação entre os integrantes da equipe, verificando se o desenho estava de acordo com o contexto que queríamos representar.
 
@@ -70,7 +70,10 @@ O trabalho foi realizado em conjunto pela equipe, com discussões sobre quais el
 ![Rich Picture - Versão 2](../assets/subequipe02-fluxos/RichPicture/richPicture-v2.png)
 
 #### Quem fez a versão
-- [Ana Beatriz](https://github.com/AnnaBeatrizAraujo)
+
+- [Ana Beatriz](https://github.com/AnnaBeatrizAraujo) 
+- [Gustavo Fornaciari](https://github.com/GUGOFO)
+- [Victor Leandro](https://github.com/Afrontoso)
 
 #### O que mudou da versão anterior
 - Melhoria do Rich Picture utilizando nova fonte, setas maiores, novo estilo padronizado e numeração.

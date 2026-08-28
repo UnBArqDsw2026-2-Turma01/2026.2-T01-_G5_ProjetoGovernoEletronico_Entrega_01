@@ -88,6 +88,8 @@ Os três diagramas produzidos, com a leitura do que cada fluxo revela sobre o Me
 
 #### Quem fez a versão
 - [Victor Leandro](https://github.com/Afrontoso)
+- [Ana Beatriz](https://github.com/AnnaBeatrizAraujo) 
+- [Gustavo Fornaciari](https://github.com/GUGOFO)
 
 #### O que mudou da versão anterior
 
