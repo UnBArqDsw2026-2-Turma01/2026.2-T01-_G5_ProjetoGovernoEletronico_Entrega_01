@@ -80,9 +80,9 @@ Cada proposta segue o mesmo modelo: identificação do sistema, justificativa da
 
 ## Histórico de Versionamento
 
-| Nome do Membro | Contribuição | Data |
-| -- | -- | -- |
-| [Victor Leandro](https://github.com/Afrontoso) | Pesquisa da Carteira Digital de Trânsito e divisão de fluxos por subequipe | 22/08/2026 |
-| [Victor Leandro](https://github.com/Afrontoso) | Formatação do documento em Markdown e criação do modelo de proposta | 25/08/2026 |
-| [Artur Galdino](https://github.com/arturgaldino) | Pesquisa da Fala.BR e divisão de fluxos por subequipe | 26/08/2026 |
-| [Giovani Coelho](https://github.com/Gotc2607) | Adicionando a proposta do Meu SUS Digital, com justificativa e divisão dos fluxos por subequipe | 26/08/2026 |
+| Nome do Membro | Contribuição | Data | Commit |
+| -- | -- | -- | -- |
+| [Victor Leandro](https://github.com/Afrontoso) | Pesquisa da Carteira Digital de Trânsito e divisão de fluxos por subequipe | 22/08/2026 | [79974b8](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/79974b85fb1146516274a9d206ed7df06293843c) |
+| [Victor Leandro](https://github.com/Afrontoso) | Formatação do documento em Markdown e criação do modelo de proposta | 25/08/2026 | [79974b8](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/79974b85fb1146516274a9d206ed7df06293843c) |
+| [Artur Galdino](https://github.com/ArturFGaldino) | Pesquisa da Fala.BR e divisão de fluxos por subequipe | 26/08/2026 | [258ea74](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/258ea74a6accd1a325df750532ab3bbcfdbf9c98) |
+| [Giovani Coelho](https://github.com/Gotc2607) | Adicionando a proposta do Meu SUS Digital, com justificativa e divisão dos fluxos por subequipe | 26/08/2026 | [8a34776](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/8a347764d88dc67e242c05c46a593a2d09bdbdd0) |
