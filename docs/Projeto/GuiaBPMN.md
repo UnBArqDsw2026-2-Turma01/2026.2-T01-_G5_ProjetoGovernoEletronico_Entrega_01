@@ -63,6 +63,6 @@ Editor 100% web que executa diretamente no navegador. É simples, rápido e poss
 
 ## Histórico de Versionamento
 
-| Nome do Membro | Contribuição | Data |
-| -- | -- | -- |
-| [Nicole Jovita](https://github.com/nicolejovita) | Criação do Guia de Modelador BPMN e Notações | 26/08/2026 |
+| Nome do Membro | Contribuição | Data | Commit |
+| -- | -- | -- | -- |
+| [Nicole Jovita](https://github.com/nicolejovita) | Criação do Guia de Modelador BPMN e Notações | 26/08/2026 | [9ec435e](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/9ec435e373a7dbd1bb1d390c2e473046d31c4442) |

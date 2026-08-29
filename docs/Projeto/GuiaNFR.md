@@ -74,6 +74,6 @@ Cada atributo de NFR deve ser traduzido em metas numéricas e validadas por test
 
 ## Histórico de Versionamento
 
-| Nome do Membro                              | Contribuição                     | Data       |
-| ------------------------------------------- | -------------------------------- | ---------- |
-| [Gabriel Mota](https://github.com/Gabro-MO) | Criação do Guia do NFR Framework | 23/08/2026 |
+| Nome do Membro | Contribuição | Data | Commit |
+| :--- | :--- | :--- | :--- |
+| [Gabriel Mota](https://github.com/Gabro-MO) | Criação do Guia do NFR Framework | 23/08/2026 | [d0b7626](https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_01/commit/d0b7626d9a7ba9eacaaea1b009c7951fa9c36673) |
