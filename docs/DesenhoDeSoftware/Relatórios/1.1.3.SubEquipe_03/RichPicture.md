@@ -62,7 +62,7 @@ A estrutura inicial foi mantida, e foi acrescido um balão de preocupação sobr
 
 **Autoria: Gabriel Mota**
 
-![Rich Picture do fluxo do login até a localização de um local da rede de saúde - versão 2](../assets/subequipe03-fluxos/rich-picture/RichPicture_RedeDeSaude_V2.png)
+![Rich Picture do fluxo do login até a localização de um local da rede de saúde - versão 2](../assets/subequipe03-fluxos/rich-picture/rich-picture-usabilidade-v2.png)
 
 **Legenda da Rich Picture:** Fluxo de Busca de Rede Credenciada no Meu SUS Digital - Versão Final
 
@@ -122,7 +122,7 @@ A estrutura de bolhas e relacionamentos foi mantida, e os "elos perdidos", repre
 
 **Autoria: Gabriel Mota**
 
-![Rich Picture do fluxo do login até a localização de um local da rede de saúde - versão 2](../assets/subequipe03-fluxos/rich-picture/RichPicture_Conteudo_V1.png)
+![Rich Picture do fluxo do login até a localização de um local da rede de saúde - versão 2](../assets/subequipe03-fluxos/rich-picture/rich-picture-conteudo-v1.png)
 
 **Legenda da Rich Picture:** Fluxo de Busca de Conteudos no Meu SUS Digital - Versão Final
 
