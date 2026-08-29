@@ -2,11 +2,13 @@
 
 - **Projeto**
   - [Padrão de Commits](/Projeto/PadraoDeCommits.md)
+  - [Política de Branches](/Projeto/PoliticaBranches.md)
   - [Projetos da Disciplina](/Projeto/ProjetosDisciplina.md)
   - [Possíveis Projetos](/Projeto/PossiveisProjetos.md)
   - [Guia BPMN](/Projeto/GuiaBPMN.md)
   - [Guia Rich Picture](/Projeto/GuiaRichPicture.md)
   - [Guia NFR](/Projeto/GuiaNFR.md)
+
 
   - Atas
     - [Atas Grupo](/Projeto/Atas/AtasGerais/README.md)
